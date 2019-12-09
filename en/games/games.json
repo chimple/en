@@ -81,7 +81,7 @@
     "scene": "games/wordmatrix/scenes/wordmatrix",
     "jsonFile": "en/games/wordmatrix/wordmatrix",
     "levels": 33,
-    "ground": "200",
+    "ground": "0",
     "color": "#7A4A8D",
     "type": "literacy"
   },
