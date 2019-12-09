@@ -1,0 +1,409 @@
+{
+  "match": {
+    "name": "Letter Gift",
+    "scene": "games/match/scenes/match",
+    "jsonFile": "en/games/match/match",
+    "levels": 14,
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "wordkicker": {
+    "name": "WordKicker",
+    "scene": "games/wordkicker/scenes/wordkicker",
+    "jsonFile": "en/games/wordkicker/wordkicker",
+    "levels": 22,
+    "ground": "280",
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "doubledigit": {
+    "name": "doubledigit",
+    "scene": "games/doubledigit/scenes/doubledigit",
+    "jsonFile": "en/games/doubledigit/doubledigit",
+    "levels": 39,
+    "color": "#7A4A8D",
+    "type": "maths"
+  },
+  "starfall": {
+    "name": "Bubble",
+    "scene": "games/starfall/scenes/starfall",
+    "jsonFile": "en/games/starfall/starfall",
+    "levels": 10,
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "spelling": {
+    "name": "Shutter",
+    "scene": "games/spelling/scenes/spelling",
+    "jsonFile": "en/games/spelling/spelling",
+    "levels": 16,
+    "ground": "400",
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "sentencebridge": {
+    "name": "Jump",
+    "scene": "games/sentencebridge/scenes/sentencebridge",
+    "jsonFile": "en/games/sentencebridge/sentencebridge",
+    "levels": 24,
+    "ground": "300",
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "sentencemaker": {
+    "name": "Make A Sentence",
+    "scene": "games/sentencemaker/scene/sentencemaker",
+    "jsonFile": "en/games/sentencemaker/sentencemaker",
+    "ground": 130,
+    "levels": 15,
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "lrcomprehension": {
+    "name": "lrcomprehension",
+    "scene": "games/lrcomprehension/scenes/lrcomprehension",
+    "jsonFile": "en/games/lrcomprehension/lrcomprehension",
+    "levels": 49,
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "soundtrain": {
+    "name": "Sound Tractor",
+    "scene": "games/soundtrain/scene/soundtrain",
+    "jsonFile": "en/games/soundtrain/soundtrain",
+    "levels": 21,
+    "ground": "350",
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "wordmatrix": {
+    "name": "Farm",
+    "scene": "games/wordmatrix/scenes/wordmatrix",
+    "jsonFile": "en/games/wordmatrix/wordmatrix",
+    "levels": 33,
+    "ground": "200",
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "thirtypuzzlenew": {
+    "name": "Small Grid",
+    "scene": "games/thirtypuzzlenew/scenes/thirtypuzzlenew",
+    "jsonFile": "en/games/thirtypuzzlenew/thirtypuzzlenew",
+    "levels": 12,
+    "color": "#7A4A8D",
+    "type": "maths"
+  },
+  "labeling": {
+    "name": "Tag",
+    "scene": "games/labeling/scenes/labeling",
+    "jsonFile": "en/games/labeling/labeling",
+    "levels": 26,
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "linematching": {
+    "name": "Free Bird",
+    "scene": "games/linematching/scenes/linematching",
+    "jsonFile": "en/games/linematching/linematching",
+    "levels": 12,
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "multiplicationboard": {
+    "name": "Ring Doll",
+    "scene": "games/multiplicationboard/scenes/multiplicationboard",
+    "jsonFile": "en/games/multiplication/multiplication",
+    "levels": 9,
+    "color": "#7A4A8D",
+    "type": "maths"
+  },
+  "fishtank": {
+    "name": "Balls",
+    "scene": "games/fishtank/scenes/fishtank",
+    "jsonFile": "en/games/fishtank/fishtank",
+    "levels": 11,
+    "ground": "100",
+    "color": "#7A4A8D",
+    "type": "maths"
+  },
+  "cowphonics": {
+    "name": "Speaking Cat",
+    "scene": "games/cowphonics/scenes/cowphonics",
+    "jsonFile": "en/games/cowphonics/cowphonics",
+    "levels": 16,
+    "ground": "480",
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "alphabetrecorder": {
+    "name": "Alphabet Recorder",
+    "scene": "games/alphabetrecorder/scenes/alphabetrecorder",
+    "jsonFile": "en/games/alphabetrecorder/alphabetrecorder",
+    "levels": 50,
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "quickfacts": {
+    "name": "Rapid Answer",
+    "scene": "games/quickfacts/scenes/quickfacts",
+    "jsonFile": "en/games/quickfacts/quickfacts",
+    "levels": 41,
+    "color": "#7A4A8D",
+    "type": "maths"
+  },
+  "lettertracing": {
+    "name": "Draw Letter",
+    "scene": "games/lettertracing/scenes/lettertracing",
+    "jsonFile": "en/games/lettertracing/lettertracing",
+    "levels": 6,
+    "fontName": "trace",
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "lettertracingcard": {
+    "name": "Draw A Card",
+    "scene": "games/lettertracingcard/scenes/lettertracingcard",
+    "jsonFile": "en/games/lettertracingcard/lettertracingcard",
+    "levels": 26,
+    "fontName": "trace",
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "equation": {
+    "name": "Food Jar",
+    "scene": "games/equation/scenes/equation",
+    "jsonFile": "en/games/equation/equation",
+    "levels": 12,
+    "ground": "250",
+    "color": "#7A4A8D",
+    "type": "maths"
+  },
+  "wordtracing": {
+    "name": "Write A Word",
+    "scene": "games/wordtracing/scenes/wordtracing",
+    "jsonFile": "en/games/wordtracing/wordtracing",
+    "levels": 4,
+    "fontName": "trace",
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "alphapuzzle": {
+    "name": "Alphabet Jigsaw",
+    "scene": "games/alphapuzzle/scenes/alphapuzzle",
+    "jsonFile": "en/games/alphapuzzle/alphapuzzle",
+    "ground": 0,
+    "levels": 4,
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "numbertracing": {
+    "name": "Write Number",
+    "scene": "games/numbertracing/scenes/numbertracing",
+    "jsonFile": "en/games/numbertracing/numbertracing",
+    "levels": 2,
+    "fontName": "trace",
+    "color": "#7A4A8D",
+    "type": "maths"
+  },
+  "numbertracingextnew": {
+    "name": "Draw and Count",
+    "scene": "games/numbertracingextnew/scenes/numbertracingextnew",
+    "jsonFile": "en/games/numbertracingextnew/numbertracingextnew",
+    "levels": 11,
+    "fontName": "trace",
+    "color": "#7A4A8D",
+    "type": "maths"
+  },
+  "picturepuzzle": {
+    "name": "Jigsaw Puzzle",
+    "scene": "games/picturepuzzle/scenes/picturepuzzle",
+    "jsonFile": "en/games/picturepuzzle/picturepuzzle",
+    "levels": 40,
+    "ground": 0,
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "imagerecorder": {
+    "name": "Image Recorder",
+    "scene": "games/imagerecorder/scenes/imagerecorder",
+    "jsonFile": "en/games/imagerecorder/imagerecorder",
+    "levels": 19,
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "tutorialtrace": {
+    "name": "Draw",
+    "scene": "games/tutorialtrace/scenes/tutorialtrace",
+    "jsonFile": "en/games/tutorialtrace/tutorialtrace",
+    "levels": 3,
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "numberpuzzle": {
+    "name": "Number Jigsaw",
+    "scene": "games/alphapuzzle/scenes/numberpuzzle",
+    "jsonFile": "en/games/numberpuzzle/numberpuzzle",
+    "levels": 6,
+    "ground": 0,
+    "color": "#7A4A8D",
+    "type": "maths"
+  },
+  "movingobjects": {
+    "name": "Moving Objects",
+    "scene": "games/movingobjects/scenes/movingobjects",
+    "jsonFile": "en/games/movingobjects/movingobjects",
+    "levels": 9,
+    "color": "#7A4A8D",
+    "type": "maths"
+  },
+  "shapematch": {
+    "name": "Shape Pair",
+    "scene": "games/match/scenes/shapematch",
+    "jsonFile": "en/games/shapematch/shapematch",
+    "levels": 12,
+    "ground": 0,
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "numbermatch": {
+    "name": "Number Pair",
+    "scene": "games/match/scenes/numbermatch",
+    "jsonFile": "en/games/numbermatch/numbermatch",
+    "levels": 11,
+    "ground": 0,
+    "color": "#7A4A8D",
+    "type": "maths"
+  },
+  "wordwindow": {
+    "name": "Ask a Problem",
+    "scene": "games/wordwindow/scenes/wordwindow",
+    "jsonFile": "en/games/wordwindow/wordwindow",
+    "levels": 17,
+    "color": "#7A4A8D",
+    "type": "maths"
+  },
+  "findthematch": {
+    "name": "Match Image",
+    "scene": "games/findthematch/scenes/findthematch",
+    "jsonFile": "en/games/findthematch/findthematch",
+    "levels": "8",
+    "ground": "340",
+    "color": "#7A4A8D",
+    "type": "maths"
+  },
+  "placevalue": {
+    "name": "Juice Maker",
+    "scene": "games/placevalue/scenes/placevalue",
+    "jsonFile": "en/games/placevalue/placevalue",
+    "levels": "27",
+    "color": "#7A4A8D",
+    "type": "maths"
+  },
+  "missingnumber": {
+    "name": "Open Treasure",
+    "scene": "games/missingnumber/scenes/missingnumber",
+    "jsonFile": "en/games/missingnumber/missingnumber",
+    "levels": "37",
+    "ground": "200",
+    "color": "#7A4A8D",
+    "type": "maths"
+  },
+  "tenbox": {
+    "name": "Box It",
+    "scene": "games/tenbox/scenes/tenbox",
+    "jsonFile": "en/games/tenbox/tenbox",
+    "levels": "11",
+    "ground": "320",
+    "color": "#7A4A8D",
+    "type": "maths"
+  },
+  "tapping": {
+    "name": "Click",
+    "scene": "games/tapping/scenes/tapping",
+    "jsonFile": "en/games/tapping/tapping",
+    "levels": "3",
+    "color": "#7A4A8D",
+    "type": "maths"
+  },
+  "counting": {
+    "name": "See and Count",
+    "scene": "games/counting/scenes/counting",
+    "jsonFile": "en/games/counting/counting",
+    "levels": "8",
+    "ground": "20",
+    "color": "#7A4A8D",
+    "type": "maths"
+  },
+  "hundredpuzzle": {
+    "name": "Big Grid",
+    "scene": "games/hundredpuzzle/scenes/hundredpuzzle",
+    "jsonFile": "en/games/hundredpuzzle/hundredpuzzle",
+    "levels": "11",
+    "ground": "0",
+    "color": "#7A4A8D",
+    "type": "maths"
+  },
+  "numbertrain": {
+    "name": "Number Tractor",
+    "scene": "games/numbertrain/scenes/numbertrain",
+    "jsonFile": "en/games/numbertrain/numbertrain",
+    "levels": "18",
+    "ground": "300",
+    "color": "#7A4A8D",
+    "type": "maths"
+  },
+  "balancing": {
+    "name": "Balancing",
+    "scene": "games/balancing/scenes/balancing",
+    "jsonFile": "en/games/balancing/balancing",
+    "levels": "24",
+    "ground": "0",
+    "color": "#7A4A8D",
+    "type": "maths"
+  },
+  "wordnote": {
+    "name": "Rocket",
+    "scene": "games/wordnote/scenes/wordnote",
+    "jsonFile": "en/games/wordnote/wordnote",
+    "levels": "26",
+    "ground": "0",
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "patterntrain": {
+    "name": "Pattern Tractor",
+    "scene": "games/patterntrain/scenes/patterntrain",
+    "jsonFile": "en/games/patterntrain/patterntrain",
+    "levels": "5",
+    "ground": "300",
+    "color": "#7A4A8D",
+    "type": "maths"
+  },
+  "wordmachine": {
+    "name": "Window Shade",
+    "scene": "games/wordmachine/scenes/wordmachine",
+    "jsonFile": "en/games/wordmachine/wordmachine",
+    "levels": "4",
+    "ground": "0",
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "whatisthis": {
+    "name": "See and Say",
+    "scene": "games/whatisthis/scenes/whatisthis",
+    "jsonFile": "en/games/whatisthis/whatisthis",
+    "levels": "19",
+    "ground": "384",
+    "color": "#7A4A8D",
+    "type": "literacy"
+  },
+  "mathkicker": {
+    "name": "Math Kicker",
+    "scene": "games/wordkicker/scenes/mathkicker",
+    "jsonFile": "en/games/mathkicker/mathkicker",
+    "levels": 14,
+    "ground": "280",
+    "color": "#7A4A8D",
+    "type": "maths"
+  }
+}
