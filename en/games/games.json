@@ -112,7 +112,7 @@
   "multiplicationboard": {
     "name": "Ring Doll",
     "scene": "games/multiplicationboard/scenes/multiplicationboard",
-    "jsonFile": "en/games/multiplication/multiplication",
+    "jsonFile": "en/games/multiplicationboard/multiplicationboard",
     "levels": 9,
     "color": "#7A4A8D",
     "type": "maths"
