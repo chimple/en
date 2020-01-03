@@ -94,6 +94,7 @@
     "name": "Alphabet Recorder",
     "scene": "games/alphabetrecorder/scenes/alphabetrecorder",
     "levels": 50,
+    "fontName": "en-trace",
     "color": "#7A4A8D",
     "type": "literacy"
   },
