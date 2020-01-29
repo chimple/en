@@ -18,7 +18,7 @@
     "name": "Bubble",
     "scene": "games/starfall/scenes/starfall",
     "levels": 10,
-    "ground": 425,
+	  "ground": "450",
     "color": "#7A4A8D",
     "type": "literacy"
   },
