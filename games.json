@@ -169,5 +169,13 @@
     "ground": "384",
     "color": "#7A4A8D",
     "type": "literacy"
+  },
+  "monster": {
+    "name": "Monster",
+    "scene": "games/monster/scenes/monster",
+    "levels": "26",
+    "ground": "150",
+    "color": "#7A4A8D",
+    "type": "literacy"
   }
 }
