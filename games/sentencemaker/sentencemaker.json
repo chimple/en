@@ -66,7 +66,7 @@
   ["7","1","4","They/are/students","doctors","Ihavemanyfriends.jpg","They are students"],
   ["7","1","5","Anand/is/a farmer","a lion","Gopiisa goodfarmer.jpg","Anand is a farmer"],
   ["7","1","6","The snake/is/long","furry","Thesnakemovesslowly.jpg","The snake is long"],
-  ["7","1","7","I/am/happy","sad","The girlhasa purpledress.PNG","I am happy"],
+  ["7","1","7","I/am/happy","sad","the girl has a purple dress.png","I am happy"],
   ["7","1","8","The motorbike/is/fast","slow","The truckcarriesthings.jpg","The motorbike is fast"],
   ["7","1","9","The tree/is/beautiful","dry","The treegrowstall.jpg","The tree is beautiful"],
   ["7","1","10","The ball/is/red","yellow","Itisa redball.jpg","The ball is red"],
@@ -119,7 +119,7 @@
   ["12","1","7","The book/has/many/pages","","The bookhasmanypages.jpg","thebookhasmanypages"],
   ["12","1","8","The earth/has/one/moon","","The earthhasonemoon.jpg","theearthhasonemoon"],
   ["12","1","9","I/have/many/friends","","Ihavemanyfriends.jpg","ihavemanyfriends"],
-  ["12","1","10","The girl/has/a purple/dress","","The girlhasa purpledress.PNG","thegirlhasapurpledress"],
+  ["12","1","10","The girl/has/a purple/dress","","the girl has a purple dress.png","thegirlhasapurpledress"],
   ["13","1","1","Mala/is/a smart/kid","kids","Maryisa smartkid.jpg","jillisasmartkid"],
   ["13","1","2","Natasha/is/a helpful/friend","be","Hinaisa helpfulfriend.jpg","bahatiisahelpfulfriend"],
   ["13","1","3","Ayush/is/a tall/boy","tallest","Chrisisa tallboy.jpg","simoisatallboy"],
@@ -149,5 +149,5 @@
   ["15","1","7","The book/has/many/pages","lot","The bookhasmanypages.jpg","thebookhasmanypages"],
   ["15","1","8","The earth/has/one/moon","ones","The earthhasonemoon.jpg","theearthhasonemoon"],
   ["15","1","9","I/have/many/friends","friend","Ihavemanyfriends.jpg","ihavemanyfriends"],
-  ["15","1","10","The girl/has/a purple/dress","dresses","The girlhasa purpledress.PNG","thegirlhasapurpledress"]
+  ["15","1","10","The girl/has/a purple/dress","dresses","the girl has a purple dress.png","thegirlhasapurpledress"]
 ]
