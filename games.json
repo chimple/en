@@ -18,7 +18,7 @@
     "name": "Bubble",
     "scene": "games/starfall/scenes/starfall",
     "levels": 10,
-    "ground": 425,
+	  "ground": "450",
     "color": "#7A4A8D",
     "type": "literacy"
   },
@@ -170,6 +170,7 @@
     "color": "#7A4A8D",
     "type": "literacy"
   },
+<<<<<<< HEAD
   "stories": {
     "name": "Stories",
     "scene": "games/stories/scenes/stories",
@@ -192,6 +193,13 @@
     "scene": "games/story/scenes/story",
     "levels": "1",
     "ground": "300",
+=======
+  "monster": {
+    "name": "Monster",
+    "scene": "games/monster/scenes/monster",
+    "levels": "26",
+    "ground": "150",
+>>>>>>> d954dcbfe90cb3d164c803d1c2774108087f121d
     "color": "#7A4A8D",
     "type": "literacy"
   }
