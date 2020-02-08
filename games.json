@@ -1,206 +1,198 @@
 {
-  "match": {
-    "name": "Letter Gift",
-    "scene": "games/match/scenes/match",
-    "levels": 14,
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-  "wordkicker": {
-    "name": "WordKicker",
-    "scene": "games/wordkicker/scenes/wordkicker",
-    "levels": 22,
-    "ground": "280",
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-  "starfall": {
-    "name": "Bubble",
-    "scene": "games/starfall/scenes/starfall",
-    "levels": 10,
-	  "ground": "450",
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-  "spelling": {
-    "name": "Shutter",
-    "scene": "games/spelling/scenes/spelling",
-    "levels": 16,
-    "ground": "400",
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-  "sentencebridge": {
-    "name": "Jump",
-    "scene": "games/sentencebridge/scenes/sentencebridge",
-    "levels": 24,
-    "ground": 420,
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-  "sentencemaker": {
-    "name": "Make A Sentence",
-    "scene": "games/sentencemaker/scene/sentencemaker",
-    "ground": 130,
-    "levels": 15,
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-  "lrcomprehension": {
-    "name": "lrcomprehension",
-    "scene": "games/lrcomprehension/scenes/lrcomprehension",
-    "levels": 49,
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-  "soundtrain": {
-    "name": "Sound Tractor",
-    "scene": "games/soundtrain/scene/soundtrain",
-    "levels": 21,
-    "ground": "365",
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-  "wordmatrix": {
-    "name": "Farm",
-    "scene": "games/wordmatrix/scenes/wordmatrix",
-    "levels": 33,
-    "ground": "190",
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-  "labeling": {
-    "name": "Tag",
-    "scene": "games/labeling/scenes/labeling",
-    "levels": 26,
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-  "cowphonics": {
-    "name": "Speaking Cat",
-    "scene": "games/cowphonics/scenes/cowphonics",
-    "levels": 16,
-    "ground": "480",
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-  "alphabetrecorder": {
-    "name": "Alphabet Recorder",
-    "scene": "games/alphabetrecorder/scenes/alphabetrecorder",
-    "levels": 50,
-    "fontName": "en-trace",
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-  "lettertracing": {
-    "name": "Draw Letter",
-    "scene": "games/lettertracing/scenes/lettertracing",
-    "levels": 6,
-    "fontName": "en-trace",
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-  "lettertracingcard": {
-    "name": "Draw A Card",
-    "scene": "games/lettertracingcard/scenes/lettertracingcard",
-    "levels": 26,
-    "fontName": "en-trace",
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-  "wordtracing": {
-    "name": "Write A Word",
-    "scene": "games/wordtracing/scenes/wordtracing",
-    "levels": 4,
-    "fontName": "en-trace",
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-  "alphapuzzle": {
-    "name": "Alphabet Jigsaw",
-    "scene": "games/alphapuzzle/scenes/alphapuzzle",
-    "ground": 0,
-    "levels": 4,
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-  "picturepuzzle": {
-    "name": "Jigsaw Puzzle",
-    "scene": "games/picturepuzzle/scenes/picturepuzzle",
-    "levels": 40,
-    "ground": 0,
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-  "imagerecorder": {
-    "name": "Image Recorder",
-    "scene": "games/imagerecorder/scenes/imagerecorder",
-    "levels": 19,
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-  "tutorialtrace": {
-    "name": "Draw",
-    "scene": "games/tutorialtrace/scenes/tutorialtrace",
-    "levels": 3,
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-  "wordnote": {
-    "name": "Rocket",
-    "scene": "games/wordnote/scenes/wordnote",
-    "levels": "26",
-    "ground": "300",
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-  "wordmachine": {
-    "name": "Window Shade",
-    "scene": "games/wordmachine/scenes/wordmachine",
-    "levels": "4",
-    "ground": "0",
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-  "whatisthis": {
-    "name": "See and Say",
-    "scene": "games/whatisthis/scenes/whatisthis",
-    "levels": "19",
-    "ground": "384",
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-<<<<<<< HEAD
-  "stories": {
-    "name": "Stories",
-    "scene": "games/stories/scenes/stories",
-    "levels": "1",
-    "ground": "300",
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-  "quiz": {
-    "name": "Quiz",
-    "scene": "games/quiz/scenes/quiz",
-    "levels": "7",
-    "fontName": "en-trace",
-    "ground": "300",
-    "color": "#7A4A8D",
-    "type": "literacy"
-  },
-  "story": {
-    "name": "Story",
-    "scene": "games/story/scenes/story",
-    "levels": "1",
-    "ground": "300",
-=======
-  "monster": {
-    "name": "Monster",
-    "scene": "games/monster/scenes/monster",
-    "levels": "26",
-    "ground": "150",
->>>>>>> d954dcbfe90cb3d164c803d1c2774108087f121d
-    "color": "#7A4A8D",
-    "type": "literacy"
-  }
+    "match": {
+        "name": "Letter Gift",
+        "scene": "games/match/scenes/match",
+        "levels": 14,
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "wordkicker": {
+        "name": "WordKicker",
+        "scene": "games/wordkicker/scenes/wordkicker",
+        "levels": 22,
+        "ground": "280",
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "starfall": {
+        "name": "Bubble",
+        "scene": "games/starfall/scenes/starfall",
+        "levels": 10,
+        "ground": "450",
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "spelling": {
+        "name": "Shutter",
+        "scene": "games/spelling/scenes/spelling",
+        "levels": 16,
+        "ground": "400",
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "sentencebridge": {
+        "name": "Jump",
+        "scene": "games/sentencebridge/scenes/sentencebridge",
+        "levels": 24,
+        "ground": 420,
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "sentencemaker": {
+        "name": "Make A Sentence",
+        "scene": "games/sentencemaker/scene/sentencemaker",
+        "ground": 130,
+        "levels": 15,
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "lrcomprehension": {
+        "name": "lrcomprehension",
+        "scene": "games/lrcomprehension/scenes/lrcomprehension",
+        "levels": 49,
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "soundtrain": {
+        "name": "Sound Tractor",
+        "scene": "games/soundtrain/scene/soundtrain",
+        "levels": 21,
+        "ground": "365",
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "wordmatrix": {
+        "name": "Farm",
+        "scene": "games/wordmatrix/scenes/wordmatrix",
+        "levels": 33,
+        "ground": "190",
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "labeling": {
+        "name": "Tag",
+        "scene": "games/labeling/scenes/labeling",
+        "levels": 26,
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "cowphonics": {
+        "name": "Speaking Cat",
+        "scene": "games/cowphonics/scenes/cowphonics",
+        "levels": 16,
+        "ground": "480",
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "alphabetrecorder": {
+        "name": "Alphabet Recorder",
+        "scene": "games/alphabetrecorder/scenes/alphabetrecorder",
+        "levels": 50,
+        "fontName": "en-trace",
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "lettertracing": {
+        "name": "Draw Letter",
+        "scene": "games/lettertracing/scenes/lettertracing",
+        "levels": 6,
+        "fontName": "en-trace",
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "lettertracingcard": {
+        "name": "Draw A Card",
+        "scene": "games/lettertracingcard/scenes/lettertracingcard",
+        "levels": 26,
+        "fontName": "en-trace",
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "wordtracing": {
+        "name": "Write A Word",
+        "scene": "games/wordtracing/scenes/wordtracing",
+        "levels": 4,
+        "fontName": "en-trace",
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "alphapuzzle": {
+        "name": "Alphabet Jigsaw",
+        "scene": "games/alphapuzzle/scenes/alphapuzzle",
+        "ground": 0,
+        "levels": 4,
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "picturepuzzle": {
+        "name": "Jigsaw Puzzle",
+        "scene": "games/picturepuzzle/scenes/picturepuzzle",
+        "levels": 40,
+        "ground": 0,
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "imagerecorder": {
+        "name": "Image Recorder",
+        "scene": "games/imagerecorder/scenes/imagerecorder",
+        "levels": 19,
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "tutorialtrace": {
+        "name": "Draw",
+        "scene": "games/tutorialtrace/scenes/tutorialtrace",
+        "levels": 3,
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "wordnote": {
+        "name": "Rocket",
+        "scene": "games/wordnote/scenes/wordnote",
+        "levels": "26",
+        "ground": "300",
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "wordmachine": {
+        "name": "Window Shade",
+        "scene": "games/wordmachine/scenes/wordmachine",
+        "levels": "4",
+        "ground": "0",
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "whatisthis": {
+        "name": "See and Say",
+        "scene": "games/whatisthis/scenes/whatisthis",
+        "levels": "19",
+        "ground": "384",
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "quiz": {
+        "name": "Quiz",
+        "scene": "games/quiz/scenes/quiz",
+        "levels": "7",
+        "fontName": "en-trace",
+        "ground": "300",
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "story": {
+        "name": "Story",
+        "scene": "games/story/scenes/story",
+        "levels": "1",
+        "ground": "300",
+        "color": "#7A4A8D",
+        "type": "literacy"
+    },
+    "monster": {
+        "name": "Monster",
+        "scene": "games/monster/scenes/monster",
+        "levels": "26",
+        "ground": "150",
+        "color": "#7A4A8D",
+        "type": "literacy"
+    }
 }
