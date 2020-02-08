@@ -1,0 +1,76 @@
+[
+    [
+        "1",
+        "1",
+        "1",
+        "T",
+        "Trace the word",
+        "book_en_211_page_1_tracing",
+        "book_en_211_page_1_cropped.png",
+        "crocodile",
+        "en-uk-crocodile"
+    ],
+    [
+        "2",
+        "1",
+        "1",
+        "F",
+        "Fill the blank(s)",
+        "book_en_211_page_2_cropped.png",
+        "The crocodile is [hungry]",
+        "happy",
+        "book_en_211_page_2_1"
+    ],
+    [
+        "3",
+        "1",
+        "1",
+        "F",
+        "Fill the blank(s)",
+        "book_en_311_page_3_cropped.png",
+        "The cat is all [alone]. The cat wants a [friend].",
+        "book",
+        "book_en_311_page_3_blank.m4a"
+    ],
+    [
+        "4",
+        "1",
+        "1",
+        "MC",
+        "Select the correct answer",
+        "book_en_211_page_2_cropped.png",
+        "The crocodile is full., This is a crocodile., The crocodile attacks the goat., The crocodile looks for food.",
+        "The crocodile attacks the goat."
+    ],
+    [
+        "5",
+        "1",
+        "1",
+        "MC",
+        "Select the correct answer",
+        "More cats come to help catch the mice",
+        "",
+        "book_en_311_page_2_cropped.png,book_en_311_page_7_cropped.png,book_en_311_page_3_cropped.png,book_en_311_page_6_cropped.png",
+        "book_en_311_page_7_cropped.png"
+    ],
+    [
+        "6",
+        "1",
+        "1",
+        "MC",
+        "Select the correct answer",
+        "What comes to the cats' village?",
+        "book_en_311_page_6_cropped.png",
+        "Bats, Lions, Giraffes, Mice",
+        "Mice"
+    ],
+    [
+        "7",
+        "1",
+        "1",
+        "M",
+        "Draw a line to match",
+        "Crocodile, Lion, Cow",
+        "book_en_209_page_2_cropped.png, book_en_209_page_3_cropped.png, book_en_209_page_4_cropped.png"
+    ]
+]
