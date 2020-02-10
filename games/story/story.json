@@ -3,6 +3,7 @@
         "#level",
         "Worksheet",
         "ProblemNo",
+        "type",
         "storyText",
         "storyImage",
         "storyLayout"
@@ -11,6 +12,7 @@
         "1",
         "1",
         "1",
+        "S",
         "Where is my bat?",
         "book_en_305_page_0.png",
         "P"
@@ -19,6 +21,7 @@
         "1",
         "1",
         "2",
+        "S",
         "Bill is looking for his sports bat.",
         "book_en_305_page_1.png",
         "P"
@@ -27,6 +30,7 @@
         "1",
         "1",
         "3",
+        "S",
         "Is it behind the door? Let's see.",
         "book_en_305_page_2.png",
         "P"
@@ -35,6 +39,7 @@
         "1",
         "1",
         "4",
+        "S",
         "Is it on top of the shelf? Hmm. No.",
         "book_en_305_page_3.png",
         "P"
@@ -43,6 +48,7 @@
         "1",
         "1",
         "5",
+        "S",
         "Is it under the bed? Oh, no.",
         "book_en_305_page_4.png",
         "P"
@@ -51,6 +57,7 @@
         "1",
         "1",
         "6",
+        "S",
         "Is it in the trunk? Oh, dear.",
         "book_en_305_page_5.png",
         "P"
@@ -59,6 +66,7 @@
         "1",
         "1",
         "7",
+        "S",
         "Is it upstairs? Uh oh.",
         "book_en_305_page_6.png",
         "P"
@@ -67,6 +75,7 @@
         "1",
         "1",
         "8",
+        "S",
         "Bill is really confused. Where is his sports bat?",
         "book_en_305_page_7.png",
         "P"
@@ -75,14 +84,63 @@
         "1",
         "1",
         "9",
+        "S",
         "That is Bill's sister. \nIt looks like she had the bat all along!",
         "book_en_305_page_8.png",
         "P"
     ],
     [
+        "1",
+        "1",
+        "10",
+        "Q",
+        "T",
+        "Trace the word",
+        "book_en_211_page_1_tracing",
+        "book_en_211_page_1_cropped.png",
+        "crocodile",
+        "en-uk-crocodile"
+    ],
+    [
+        "1",
+        "1",
+        "11",
+        "Q",
+        "F",
+        "Fill the blank(s)",
+        "book_en_211_page_2_cropped.png",
+        "The crocodile is [hungry]",
+        "happy",
+        "book_en_211_page_2_1"
+    ],
+    [
+        "1",
+        "1",
+        "12",
+        "Q",
+        "F",
+        "Fill the blank(s)",
+        "book_en_311_page_3_cropped.png",
+        "The cat is all [alone]. The cat wants a [friend].",
+        "book",
+        "book-en-311-page-3-blank"
+    ],
+    [
+        "1",
+        "1",
+        "13",
+        "Q",
+        "MC",
+        "Select the correct answer",
+        "book_en_211_page_5_cropped.png",
+        "The crocodile is full., This is a crocodile., The crocodile attacks the goat., The crocodile looks for food.",
+        "The crocodile attacks the goat."
+    ],
+    [
         "2",
         "1",
         "1",
+        "S",
         "The Cock and the Worm",
         "book_en_329_page_0.png",
         "P"
@@ -91,6 +149,7 @@
         "2",
         "1",
         "2",
+        "S",
         "The cock was crying. Worm came over.",
         "book_en_329_page_1.png",
         "L"
@@ -99,6 +158,7 @@
         "2",
         "1",
         "3",
+        "S",
         "The cock said he is lonely. He wants a friend.",
         "book_en_329_page_2.png",
         "L"
@@ -107,6 +167,7 @@
         "2",
         "1",
         "4",
+        "S",
         "The worm said they could play football.",
         "book_en_329_page_3.png",
         "L"
@@ -115,6 +176,7 @@
         "2",
         "1",
         "5",
+        "S",
         "The cock and worm played football.",
         "book_en_329_page_4.png",
         "L"
@@ -123,6 +185,7 @@
         "2",
         "1",
         "6",
+        "S",
         "The cock protected the goal. He was happy.",
         "book_en_329_page_5.png",
         "L"
@@ -131,6 +194,7 @@
         "2",
         "1",
         "7",
+        "S",
         "The cock and worm tried to kick the ball.",
         "book_en_329_page_6.png",
         "L"
@@ -139,6 +203,7 @@
         "2",
         "1",
         "8",
+        "S",
         "The cock thanked worm for playing with him.",
         "book_en_329_page_7.png",
         "L"
@@ -147,8 +212,43 @@
         "2",
         "1",
         "9",
+        "S",
         "The cock and worm became friends.",
         "book_en_329_page_8.png",
         "L"
+    ],
+    [
+        "2",
+        "1",
+        "10",
+        "Q",
+        "MC",
+        "Select the correct answer",
+        "More cats come to help catch the mice",
+        "",
+        "book_en_311_page_2_cropped.png,book_en_311_page_7_cropped.png,book_en_311_page_1_cropped.png,book_en_311_page_6_cropped.png",
+        "book_en_311_page_7_cropped.png"
+    ],
+    [
+        "2",
+        "1",
+        "11",
+        "Q",
+        "MC",
+        "Select the correct answer",
+        "What comes to the cats' village?",
+        "book_en_311_page_6_cropped.png",
+        "Bats, Lions, Giraffes, Mice",
+        "Mice"
+    ],
+    [
+        "2",
+        "1",
+        "12",
+        "Q",
+        "M",
+        "Draw a line to match",
+        "Crocodile, Lion, Cow",
+        "book_en_209_page_2_cropped.png,book_en_209_page_3_cropped.png,book_en_209_page_4_cropped.png"
     ]
 ]

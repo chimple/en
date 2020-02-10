@@ -170,19 +170,10 @@
         "color": "#7A4A8D",
         "type": "literacy"
     },
-    "quiz": {
-        "name": "Quiz",
-        "scene": "games/quiz/scenes/quiz",
-        "levels": "7",
-        "fontName": "en-trace",
-        "ground": "300",
-        "color": "#7A4A8D",
-        "type": "literacy"
-    },
     "story": {
         "name": "Story",
         "scene": "games/story/scenes/story",
-        "levels": "7",
+        "levels": "2",
         "ground": "300",
         "fontName": "en-trace",
         "color": "#7A4A8D",
