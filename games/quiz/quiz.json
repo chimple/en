@@ -30,7 +30,7 @@
         "book_en_311_page_3_cropped.png",
         "The cat is all [alone]. The cat wants a [friend].",
         "book",
-        "book_en_311_page_3_blank.m4a"
+        "book-en-311-page-3-blank"
     ],
     [
         "4",
@@ -38,7 +38,7 @@
         "1",
         "MC",
         "Select the correct answer",
-        "book_en_211_page_2_cropped.png",
+        "book_en_211_page_5_cropped.png",
         "The crocodile is full., This is a crocodile., The crocodile attacks the goat., The crocodile looks for food.",
         "The crocodile attacks the goat."
     ],
@@ -50,7 +50,7 @@
         "Select the correct answer",
         "More cats come to help catch the mice",
         "",
-        "book_en_311_page_2_cropped.png,book_en_311_page_7_cropped.png,book_en_311_page_3_cropped.png,book_en_311_page_6_cropped.png",
+        "book_en_311_page_2_cropped.png,book_en_311_page_7_cropped.png,book_en_311_page_1_cropped.png,book_en_311_page_6_cropped.png",
         "book_en_311_page_7_cropped.png"
     ],
     [
