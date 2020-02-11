@@ -15,6 +15,18 @@
         "1",
         "1",
         "1",
+        "image_word",
+        "dr",
+        "cr^dr^br",
+        "drum.png",
+        "__um",
+        "",
+        ""
+    ],
+    [
+        "1",
+        "1",
+        "2",
         "image_sequence",
         "Three pails.",
         "Two pails.^Three boxes.^Three pails",
@@ -110,7 +122,7 @@
     [
         "1",
         "1",
-        "8",
+        "9",
         "paragraph_sentence",
         "A circle.",
         "A triangle.^A square.^A circle.",
@@ -122,7 +134,7 @@
     [
         "1",
         "1",
-        "9",
+        "10s",
         "sentence_sentence",
         "jump, juice",
         "jump, juice^game, dirty^find, visit",
@@ -134,7 +146,7 @@
     [
         "1",
         "1",
-        "9",
+        "11",
         "sentence_word",
         "hand, house",
         "hand, house^bug, ten^jump, fan",
@@ -146,7 +158,7 @@
     [
         "1",
         "1",
-        "10",
+        "12",
         "soundonly_image",
         "book_en_314_page_6.png",
         "book_en_314_page_6.png^book_en_314_page_7.png^book_en_314_page_5.png",
@@ -158,7 +170,7 @@
     [
         "1",
         "1",
-        "10",
+        "13",
         "soundonly_sentence",
         "my house",
         "my desk^my house^your house",
@@ -170,7 +182,7 @@
     [
         "1",
         "1",
-        "11",
+        "14",
         "soundonly_word",
         "earth",
         "rain^storm^earth",
@@ -180,9 +192,9 @@
         ""
     ],
     [
+        "2",
         "1",
         "1",
-        "12",
         "word_word",
         "gr",
         "pr^gr^bl",

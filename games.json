@@ -187,10 +187,10 @@
         "color": "#7A4A8D",
         "type": "literacy"
     },
-    "eqqquizliteracy": {
-        "name": "eqqquizliteracy",
-        "scene": "games/eqqquizliteracy/scenes/eqqquizliteracy",
-        "levels": "12",
+    "eggquizliteracy": {
+        "name": "eggquizliteracy",
+        "scene": "games/eggquizliteracy/scenes/eggquizliteracy",
+        "levels": "2",
         "ground": "150",
         "color": "#7A4A8D",
         "type": "literacy"
