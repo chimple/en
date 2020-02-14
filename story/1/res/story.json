@@ -6,7 +6,8 @@
         "type",
         "storyText",
         "storyImage",
-        "storyLayout"
+        "storyLayout",
+        "storySound"
     ],
     [
         "1",
@@ -15,7 +16,8 @@
         "S",
         "Where is my bat?",
         "book_en_305_page_0.png",
-        "P"
+        "P",
+        "book_en_305_page_0_1.mp3"
     ],
     [
         "1",
@@ -24,7 +26,8 @@
         "S",
         "Bill is looking for his sports bat.",
         "book_en_305_page_1.png",
-        "P"
+        "P",
+        ""
     ],
     [
         "1",
@@ -33,7 +36,8 @@
         "S",
         "Is it behind the door? Let's see.",
         "book_en_305_page_2.png",
-        "P"
+        "P",
+        ""
     ],
     [
         "1",
@@ -42,7 +46,8 @@
         "S",
         "Is it on top of the shelf? Hmm. No.",
         "book_en_305_page_3.png",
-        "P"
+        "P",
+        ""
     ],
     [
         "1",
@@ -51,7 +56,8 @@
         "S",
         "Is it under the bed? Oh, no.",
         "book_en_305_page_4.png",
-        "P"
+        "P",
+        ""
     ],
     [
         "1",
@@ -60,7 +66,8 @@
         "S",
         "Is it in the trunk? Oh, dear.",
         "book_en_305_page_5.png",
-        "P"
+        "P",
+        ""
     ],
     [
         "1",
@@ -69,7 +76,8 @@
         "S",
         "Is it upstairs? Uh oh.",
         "book_en_305_page_6.png",
-        "P"
+        "P",
+        ""
     ],
     [
         "1",
@@ -78,7 +86,8 @@
         "S",
         "Bill is really confused. Where is his sports bat?",
         "book_en_305_page_7.png",
-        "P"
+        "P",
+        ""
     ],
     [
         "1",
@@ -87,7 +96,8 @@
         "S",
         "That is Bill's sister. \nIt looks like she had the bat all along!",
         "book_en_305_page_8.png",
-        "P"
+        "P",
+        ""
     ],
     [
         "1",
