@@ -1,7 +1,7 @@
 {
-    "match": {
+    "letterpair": {
         "name": "Letter Gift",
-        "scene": "games/match/scenes/match",
+        "scene": "games/letterpair/scenes/letterpair",
         "levels": 14,
         "color": "#7A4A8D",
         "type": "literacy"
