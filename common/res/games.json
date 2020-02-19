@@ -116,17 +116,17 @@
         "color": "#7A4A8D",
         "type": "literacy"
     },
-    "alphapuzzle": {
+    "letterboard": {
         "name": "Alphabet Jigsaw",
-        "scene": "games/alphapuzzle/scenes/alphapuzzle",
+        "scene": "games/board/scenes/letterboard",
         "ground": 0,
         "levels": 4,
         "color": "#7A4A8D",
         "type": "literacy"
     },
-    "picturepuzzle": {
+    "pictureboard": {
         "name": "Jigsaw Puzzle",
-        "scene": "games/picturepuzzle/scenes/picturepuzzle",
+        "scene": "games/pictureboard/scenes/pictureboard",
         "levels": 40,
         "ground": 0,
         "color": "#7A4A8D",
