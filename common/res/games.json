@@ -1,13 +1,13 @@
 {
     "letterpair": {
-        "name": "Letter Gift",
+        "name": "Letter Pair",
         "scene": "games/letterpair/scenes/letterpair",
         "levels": 14,
         "color": "#7A4A8D",
         "type": "literacy"
     },
     "fillblank": {
-        "name": "fillblank",
+        "name": "Fill Blank",
         "scene": "games/fillblank/scenes/fillblank",
         "levels": 22,
         "ground": "280",
@@ -15,7 +15,7 @@
         "type": "literacy"
     },
     "bubbletype": {
-        "name": "Bubble",
+        "name": "Bubble Type",
         "scene": "games/bubbletype/scenes/bubbletype",
         "levels": 10,
         "ground": "450",
@@ -23,7 +23,7 @@
         "type": "literacy"
     },
     "spelldoor": {
-        "name": "Shutter",
+        "name": "Spell Door",
         "scene": "games/spelldoor/scenes/spelldoor",
         "levels": 16,
         "ground": "400",
@@ -31,7 +31,7 @@
         "type": "literacy"
     },
     "jumpsentence": {
-        "name": "Jump",
+        "name": "Jump Sentence",
         "scene": "games/jumpsentence/scenes/jumpsentence",
         "levels": 24,
         "ground": 420,
@@ -39,22 +39,15 @@
         "type": "literacy"
     },
     "createsentence": {
-        "name": "Make A Sentence",
+        "name": "Create Sentence",
         "scene": "games/createsentence/scene/createsentence",
         "ground": 130,
         "levels": 15,
         "color": "#7A4A8D",
         "type": "literacy"
     },
-    "lrcomprehension": {
-        "name": "lrcomprehension",
-        "scene": "games/lrcomprehension/scenes/lrcomprehension",
-        "levels": 49,
-        "color": "#7A4A8D",
-        "type": "literacy"
-    },
     "phonictractor": {
-        "name": "Sound Tractor",
+        "name": "Phonic Tractor",
         "scene": "games/phonictractor/scene/phonictractor",
         "levels": 21,
         "ground": "365",
@@ -62,7 +55,7 @@
         "type": "literacy"
     },
     "grid": {
-        "name": "Farm",
+        "name": "Grid",
         "scene": "games/grid/scenes/grid",
         "levels": 33,
         "ground": "190",
@@ -77,7 +70,7 @@
         "type": "literacy"
     },
     "speakingpet": {
-        "name": "Speaking Cat",
+        "name": "Speaking Pet",
         "scene": "games/speakingpet/scenes/speakingpet",
         "levels": 16,
         "ground": "480",
@@ -85,7 +78,7 @@
         "type": "literacy"
     },
     "alphabetrecorder": {
-        "name": "Alphabet Recorder",
+        "name": "Alphabet Recorder(Dev)",
         "scene": "games/alphabetrecorder/scenes/alphabetrecorder",
         "levels": 50,
         "fontName": "en-trace",
@@ -93,7 +86,7 @@
         "type": "literacy"
     },
     "writeletter": {
-        "name": "Draw Letter",
+        "name": "Write Letter",
         "scene": "games/writeletter/scenes/writeletter",
         "levels": 6,
         "fontName": "en-trace",
@@ -101,7 +94,7 @@
         "type": "literacy"
     },
     "writecard": {
-        "name": "Draw A Card",
+        "name": "Write Card",
         "scene": "games/writecard/scenes/writecard",
         "levels": 26,
         "fontName": "en-trace",
@@ -109,7 +102,7 @@
         "type": "literacy"
     },
     "writeword": {
-        "name": "Write A Word",
+        "name": "Write Word",
         "scene": "games/writeword/scenes/writeword",
         "levels": 4,
         "fontName": "en-trace",
@@ -117,7 +110,7 @@
         "type": "literacy"
     },
     "letterboard": {
-        "name": "Alphabet Jigsaw",
+        "name": "Letter Board",
         "scene": "games/board/scenes/letterboard",
         "ground": 0,
         "levels": 4,
@@ -125,7 +118,7 @@
         "type": "literacy"
     },
     "pictureboard": {
-        "name": "Jigsaw Puzzle",
+        "name": "Picture Board",
         "scene": "games/pictureboard/scenes/pictureboard",
         "levels": 40,
         "ground": 0,
@@ -133,14 +126,14 @@
         "type": "literacy"
     },
     "imagerecorder": {
-        "name": "Image Recorder",
+        "name": "Image Recorder (Dev)",
         "scene": "games/imagerecorder/scenes/imagerecorder",
         "levels": 19,
         "color": "#7A4A8D",
         "type": "literacy"
     },
     "drawshape": {
-        "name": "Draw",
+        "name": "Draw Shape",
         "scene": "games/drawshape/scenes/drawshape",
         "levels": 3,
         "color": "#7A4A8D",
@@ -155,7 +148,7 @@
         "type": "literacy"
     },
     "openwindow": {
-        "name": "Window Shade",
+        "name": "Open Window",
         "scene": "games/openwindow/scenes/openwindow",
         "levels": "4",
         "ground": "0",
@@ -163,7 +156,7 @@
         "type": "literacy"
     },
     "picturemeaning": {
-        "name": "See and Say",
+        "name": "Picture Meaning",
         "scene": "games/picturemeaning/scenes/picturemeaning",
         "levels": "19",
         "ground": "384",
