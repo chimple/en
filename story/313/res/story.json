@@ -17,7 +17,7 @@
         "1",
         "S",
         "Where are the Shapes? ",
-        "book_en_313_page_0.jpg.png",
+        "book_en_313_page_0.jpg",
         "P",
         "book_en_313_page_0_1.m4a"
     ],
@@ -28,7 +28,7 @@
         "2",
         "S",
         "The square is next to the circle.",
-        "book_en_313_page_1.jpg.png",
+        "book_en_313_page_1.jpg",
         "P",
         "book_en_313_page_1_1.m4a"
     ],
@@ -39,7 +39,7 @@
         "3",
         "S",
         "The circle is next to the square. ",
-        "book_en_313_page_2.jpg.png",
+        "book_en_313_page_2.jpg",
         "P",
         "book_en_313_page_2_1.m4a"
     ],
@@ -50,7 +50,7 @@
         "4",
         "S",
         "The triangle is  on top  of  the circle.",
-        "book_en_313_page_3.jpg.png",
+        "book_en_313_page_3.jpg",
         "P",
         "book_en_313_page_3_1.m4a"
     ],
@@ -61,7 +61,7 @@
         "5",
         "S",
         "The  triangle is above the square.",
-        "book_en_313_page_4.jpg.png",
+        "book_en_313_page_4.jpg",
         "P",
         "book_en_313_page_4_1.m4a"
     ],
@@ -72,7 +72,7 @@
         "6",
         "S",
         "The rectangle is in the middle.",
-        "book_en_313_page_5.jpg.png",
+        "book_en_313_page_5.jpg",
         "P",
         "book_en_313_page_5_1.m4a"
     ],
@@ -83,7 +83,7 @@
         "7",
         "S",
         "The rectangle is below the star.",
-        "book_en_313_page_6.jpg.png",
+        "book_en_313_page_6.jpg",
         "P",
         "book_en_313_page_6_1.m4a"
     ],
@@ -94,7 +94,7 @@
         "8",
         "S",
         "The shapes are in a circle.",
-        "book_en_313_page_7.jpg.png",
+        "book_en_313_page_7.jpg",
         "P",
         "book_en_313_page_7_1.m4a"
     ]]
