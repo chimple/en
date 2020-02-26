@@ -1,0 +1,100 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "338",
+        "1",
+        "1",
+        "S",
+        "Catherine in the Dark",
+        "book_en_338_page_0.png",
+        "P",
+        "book_en_338_page_0_1.m4a"
+    ],
+    
+    [
+        "338",
+        "1",
+        "2",
+        "S",
+        "Catherine was afraid of the dark. She needed to look for her mom.",
+        "book_en_338_page_1.png",
+        "L",
+        "book_en_338_page_1_1.m4a,book_en_338_page_1_2.m4a"
+    ],
+    
+    [
+        "338",
+        "1",
+        "3",
+        "S",
+        "Catherine saw two eyes in the dark.",
+        "book_en_338_page_2.png",
+        "L",
+        "book_en_338_page_2_1.m4a"
+    ],
+    
+    [
+        "338",
+        "1",
+        "4",
+        "S",
+        "But it was just a cat.",
+        "book_en_338_page_3.png",
+        "L",
+        "book_en_338_page_3_1.m4a"
+    ],
+    
+    [
+        "338",
+        "1",
+        "5",
+        "S",
+        "Catherine saw a big shape. She hid in a bush.",
+        "book_en_338_page_4.png",
+        "L",
+        "book_en_338_page_4_1.m4a,book_en_338_page_4_2.m4a"
+    ],
+    
+    [
+        "338",
+        "1",
+        "6",
+        "S",
+        "But it was just a well.",
+        "book_en_338_page_5.png",
+        "L",
+        "book_en_338_page_5_1.m4a"
+    ],
+    
+    [
+        "338",
+        "1",
+        "7",
+        "S",
+        "Catherine was still afraid. Things looked different in the dark.",
+        "book_en_338_page_6.png",
+        "L",
+        "book_en_338_page_6_1.m4a,book_en_338_page_6_2.m4a"
+    ],
+    
+    [
+        "338",
+        "1",
+        "8",
+        "S",
+        "But then she saw her mom coming home!",
+        "book_en_338_page_7.png",
+        "L",
+        "book_en_338_page_7_1.m4a"
+    ]]

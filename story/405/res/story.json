@@ -1,0 +1,100 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "405",
+        "1",
+        "1",
+        "S",
+        "Night and Day",
+        "book_en_405_page_0.png",
+        "P",
+        "book_en_405_page_0_1.m4a"
+    ],
+    
+    [
+        "405",
+        "1",
+        "2",
+        "S",
+        "Masha had gone hunting. He caught nothing. The animals saw him and ran away.",
+        "book_en_405_page_1.png",
+        "L",
+        "book_en_405_page_1_1.m4a,book_en_405_page_1_2.m4a,book_en_405_page_1_3.m4a"
+    ],
+    
+    [
+        "405",
+        "1",
+        "3",
+        "S",
+        "“What should I do?” Masha asked his father. Father did not answer right away.",
+        "book_en_405_page_2.png",
+        "L",
+        "book_en_405_page_2_1.m4a,book_en_405_page_2_2.m4a,book_en_405_page_2_3.m4a"
+    ],
+    
+    [
+        "405",
+        "1",
+        "4",
+        "S",
+        "After \"breakfast,\" Father \"said,\" “You should hunt at night.”",
+        "book_en_405_page_3.png",
+        "L",
+        "book_en_405_page_3_1.m4a,book_en_405_page_3_2.m4a"
+    ],
+    
+    [
+        "405",
+        "1",
+        "5",
+        "S",
+        "“The animals see you in the day.” Father reminded him about the cycle of night and day.",
+        "book_en_405_page_4.png",
+        "L",
+        "book_en_405_page_4_1.m4a,book_en_405_page_4_2.m4a"
+    ],
+    
+    [
+        "405",
+        "1",
+        "6",
+        "S",
+        "Masha went hunting at night. It was hard to see. His friends did not want to come.",
+        "book_en_405_page_5.png",
+        "L",
+        "book_en_405_page_5_1.m4a,book_en_405_page_5_2.m4a,book_en_405_page_5_3.m4a"
+    ],
+    
+    [
+        "405",
+        "1",
+        "7",
+        "S",
+        "Masha went alone. He was \"scared,\" but he did not give up.",
+        "book_en_405_page_6.png",
+        "L",
+        "book_en_405_page_6_1.m4a,book_en_405_page_6_2.m4a"
+    ],
+    
+    [
+        "405",
+        "1",
+        "8",
+        "S",
+        "The animals did not see Masha coming. Hunting at night was good.",
+        "book_en_405_page_7.png",
+        "L",
+        "book_en_405_page_7_1.m4a,book_en_405_page_7_2.m4a"
+    ]]

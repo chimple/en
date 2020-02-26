@@ -1,0 +1,100 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "504",
+        "1",
+        "1",
+        "S",
+        "Don’t Give Up!",
+        "book_en_504_page_0.png",
+        "P",
+        "book_en_504_page_0_1.m4a"
+    ],
+    
+    [
+        "504",
+        "1",
+        "2",
+        "S",
+        "In the \"morning,\" Fox went for a walk. He walked until the sun was high. His stomach rumbled with hunger.",
+        "book_en_504_page_1.png",
+        "L",
+        "book_en_504_page_1_1.m4a,book_en_504_page_1_2.m4a,book_en_504_page_1_3.m4a"
+    ],
+    
+    [
+        "504",
+        "1",
+        "3",
+        "S",
+        "He looked all around for something to eat. He saw some grapes high in a tree. They must be so sweet! How could he get them?",
+        "book_en_504_page_2.png",
+        "L",
+        "book_en_504_page_2_1.m4a,book_en_504_page_2_2.m4a,book_en_504_page_2_3.m4a,book_en_504_page_2_4.m4a"
+    ],
+    
+    [
+        "504",
+        "1",
+        "4",
+        "S",
+        "Fox reached with his arms. He could almost taste the grapes! He jumped as high as he could. He tried to grab the grapes.",
+        "book_en_504_page_3.png",
+        "L",
+        "book_en_504_page_3_1.m4a,book_en_504_page_3_2.m4a,book_en_504_page_3_3.m4a,book_en_504_page_3_4.m4a"
+    ],
+    
+    [
+        "504",
+        "1",
+        "5",
+        "S",
+        "Fox fell to the ground. He held nothing in his paws. The grapes looked very far away.",
+        "book_en_504_page_4.png",
+        "L",
+        "book_en_504_page_4_1.m4a,book_en_504_page_4_2.m4a,book_en_504_page_4_3.m4a"
+    ],
+    
+    [
+        "504",
+        "1",
+        "6",
+        "S",
+        "He jumped again. He grabbed for the bunch of grapes. He got \"close,\" but he still could not reach them.",
+        "book_en_504_page_5.png",
+        "L",
+        "book_en_504_page_5_1.m4a,book_en_504_page_5_2.m4a,book_en_504_page_5_3.m4a"
+    ],
+    
+    [
+        "504",
+        "1",
+        "7",
+        "S",
+        "Fox could not get the grapes by jumping. He was getting upset. Could he find another way?",
+        "book_en_504_page_6.png",
+        "L",
+        "book_en_504_page_6_1.m4a,book_en_504_page_6_2.m4a,book_en_504_page_6_3.m4a"
+    ],
+    
+    [
+        "504",
+        "1",
+        "8",
+        "S",
+        "We will never know because Fox stopped trying. He made an excuse to give up. “I do not want those grapes \"anyway,”\" he pretended. “I bet they taste sour.”",
+        "book_en_504_page_7.png",
+        "L",
+        "book_en_504_page_7_1.m4a,book_en_504_page_7_2.m4a,book_en_504_page_7_3.m4a,book_en_504_page_7_4.m4a,book_en_504_page_7_5.m4a"
+    ]]

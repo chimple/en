@@ -1,0 +1,78 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "308",
+        "1",
+        "1",
+        "S",
+        "Let’s Learn About Shapes!",
+        "book_en_308_page_0.png",
+        "P",
+        "book_en_308_page_0_1.m4a"
+    ],
+    
+    [
+        "308",
+        "1",
+        "2",
+        "S",
+        "There are many shapes. Let’s learn about them!",
+        "book_en_308_page_1.png",
+        "P",
+        "book_en_308_page_1_1.m4a,book_en_308_page_1_2.m4a"
+    ],
+    
+    [
+        "308",
+        "1",
+        "3",
+        "S",
+        "A triangle has three sides and three angles.",
+        "book_en_308_page_2.png",
+        "P",
+        "book_en_308_page_2_1.m4a"
+    ],
+    
+    [
+        "308",
+        "1",
+        "4",
+        "S",
+        "A square has four equal sides and four equal angles.",
+        "book_en_308_page_3.png",
+        "P",
+        "book_en_308_page_3_1.m4a"
+    ],
+    
+    [
+        "308",
+        "1",
+        "5",
+        "S",
+        "A rectangle has four equal angles too. But it has two long sides and two short sides.",
+        "book_en_308_page_4.png",
+        "P",
+        "book_en_308_page_4_1.m4a,book_en_308_page_4_2.m4a"
+    ],
+    
+    [
+        "308",
+        "1",
+        "6",
+        "S",
+        "A circle has no angles. It is perfectly round.",
+        "book_en_308_page_5.png",
+        "P",
+        "book_en_308_page_5_1.m4a"
+    ]]

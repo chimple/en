@@ -1,0 +1,78 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "408",
+        "1",
+        "1",
+        "S",
+        "A Rainy Birthday",
+        "book_en_408_page_0.png",
+        "P",
+        "book_en_408_page_0_1.m4a"
+    ],
+    
+    [
+        "408",
+        "1",
+        "2",
+        "S",
+        "Today is Bear’s birthday. Bear and his friend Leila are very happy.",
+        "book_en_408_page_1.png",
+        "P",
+        "book_en_408_page_1_1.m4a,book_en_408_page_1_2.m4a"
+    ],
+    
+    [
+        "408",
+        "1",
+        "3",
+        "S",
+        "Leila sings a birthday song to bear. Bear makes a birthday wish. He blows out the candles on the cake.",
+        "book_en_408_page_2.png",
+        "P",
+        "book_en_408_page_2_1.m4a,book_en_408_page_2_2.m4a,book_en_408_page_2_3.m4a"
+    ],
+    
+    [
+        "408",
+        "1",
+        "4",
+        "S",
+        "Suddenly rain starts to fall.",
+        "book_en_408_page_3.png",
+        "P",
+        "book_en_408_page_3_1.m4a"
+    ],
+    
+    [
+        "408",
+        "1",
+        "5",
+        "S",
+        "And suddenly fish start to fall from the sky! Bear is so happy. He tries to catch the fish in a basket to eat later.",
+        "book_en_408_page_4.png",
+        "P",
+        "book_en_408_page_4_1.m4a,book_en_408_page_4_2.m4a,book_en_408_page_4_3.m4a"
+    ],
+    
+    [
+        "408",
+        "1",
+        "6",
+        "S",
+        "Leila is not happy though. The water reaches Leila’s waist. Leila is afraid.",
+        "book_en_408_page_5.png",
+        "P",
+        "book_en_408_page_5_1.m4a,book_en_408_page_5_2.m4a,book_en_408_page_5_3.m4a"
+    ]]

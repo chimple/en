@@ -1,0 +1,122 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "419",
+        "1",
+        "1",
+        "S",
+        "Edith and Her Book",
+        "book_en_419_page_0.png",
+        "P",
+        "book_en_419_page_0_1.m4a"
+    ],
+    
+    [
+        "419",
+        "1",
+        "2",
+        "S",
+        "This is Edith. She likes to read.",
+        "book_en_419_page_1.png",
+        "L",
+        "book_en_419_page_1_1.m4a,book_en_419_page_1_2.m4a"
+    ],
+    
+    [
+        "419",
+        "1",
+        "3",
+        "S",
+        "Edith has one book at home. It is her favorite book.",
+        "book_en_419_page_2.png",
+        "L",
+        "book_en_419_page_2_1.m4a,book_en_419_page_2_2.m4a"
+    ],
+    
+    [
+        "419",
+        "1",
+        "4",
+        "S",
+        "But now she can’t find it. She is worried.",
+        "book_en_419_page_3.png",
+        "L",
+        "book_en_419_page_3_1.m4a,book_en_419_page_3_2.m4a"
+    ],
+    
+    [
+        "419",
+        "1",
+        "5",
+        "S",
+        "“Where is my book?” she asks.",
+        "book_en_419_page_4.png",
+        "L",
+        "book_en_419_page_4_1.m4a,book_en_419_page_4_2.m4a"
+    ],
+    
+    [
+        "419",
+        "1",
+        "6",
+        "S",
+        "She wants to read her favorite book again.",
+        "book_en_419_page_5.png",
+        "L",
+        "book_en_419_page_5_1.m4a"
+    ],
+    
+    [
+        "419",
+        "1",
+        "7",
+        "S",
+        "The book isn’t on her chair.",
+        "book_en_419_page_6.png",
+        "L",
+        "book_en_419_page_6_1.m4a"
+    ],
+    
+    [
+        "419",
+        "1",
+        "8",
+        "S",
+        "The book isn’t under the bed.",
+        "book_en_419_page_7.png",
+        "L",
+        "book_en_419_page_7_1.m4a"
+    ],
+    
+    [
+        "419",
+        "1",
+        "9",
+        "S",
+        "\"“Hey,\" Edith!” yells Mama from outside.",
+        "book_en_419_page_8.png",
+        "L",
+        "book_en_419_page_8_1.m4a,book_en_419_page_8_2.m4a"
+    ],
+    
+    [
+        "419",
+        "1",
+        "10",
+        "S",
+        "“Here is your \"book,”\" Mama says.",
+        "book_en_419_page_9.png",
+        "L",
+        "book_en_419_page_9_1.m4a,book_en_419_page_9_2.m4a"
+    ]]

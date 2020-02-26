@@ -1,0 +1,89 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "349",
+        "1",
+        "1",
+        "S",
+        "Kelvin and Baba",
+        "book_en_349_page_0.png",
+        "P",
+        "book_en_349_page_0_1.m4a"
+    ],
+    
+    [
+        "349",
+        "1",
+        "2",
+        "S",
+        "Kelvin wants to be like Baba.",
+        "book_en_349_page_1.png",
+        "P",
+        "book_en_349_page_1_1.m4a"
+    ],
+    
+    [
+        "349",
+        "1",
+        "3",
+        "S",
+        "Kelvin and Baba wake up with the sun.",
+        "book_en_349_page_2.png",
+        "P",
+        "book_en_349_page_2_1.m4a"
+    ],
+    
+    [
+        "349",
+        "1",
+        "4",
+        "S",
+        "Baba washes his face. Kelvin \"does,\" too.",
+        "book_en_349_page_3.png",
+        "P",
+        "book_en_349_page_3_1.m4a,book_en_349_page_3_2.m4a"
+    ],
+    
+    [
+        "349",
+        "1",
+        "5",
+        "S",
+        "Baba drinks chai. Kelvin \"does,\" too.",
+        "book_en_349_page_4.png",
+        "P",
+        "book_en_349_page_4_1.m4a,book_en_349_page_4_2.m4a"
+    ],
+    
+    [
+        "349",
+        "1",
+        "6",
+        "S",
+        "Baba works all day. Kelvin \"does,\" too.",
+        "book_en_349_page_5.png",
+        "P",
+        "book_en_349_page_5_1.m4a,book_en_349_page_5_2.m4a"
+    ],
+    
+    [
+        "349",
+        "1",
+        "7",
+        "S",
+        "Baba and Kelvin watch the sun go down.",
+        "book_en_349_page_6.png",
+        "P",
+        "book_en_349_page_6_1.m4a"
+    ]]

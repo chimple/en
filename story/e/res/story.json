@@ -1,0 +1,78 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "e",
+        "1",
+        "1",
+        "S",
+        "",
+        "book_en_e.jpg.png",
+        "P",
+        "e.m4a"
+    ],
+    
+    [
+        "e",
+        "1",
+        "2",
+        "S",
+        "egg",
+        "egg.png",
+        "P",
+        "egg.m4a"
+    ],
+    
+    [
+        "e",
+        "1",
+        "3",
+        "S",
+        "ear",
+        "ear.png",
+        "P",
+        "ear.m4a"
+    ],
+    
+    [
+        "e",
+        "1",
+        "4",
+        "S",
+        "electricity",
+        "electricity.png",
+        "P",
+        "electricity.m4a"
+    ],
+    
+    [
+        "e",
+        "1",
+        "5",
+        "S",
+        "earring",
+        "earring.png",
+        "P",
+        "earring.m4a"
+    ],
+    
+    [
+        "e",
+        "1",
+        "6",
+        "S",
+        "elephant",
+        "elephant.png",
+        "P",
+        "elephant.m4a"
+    ]]

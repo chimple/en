@@ -1,0 +1,78 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "232",
+        "1",
+        "1",
+        "S",
+        "Hamisi’s Bicycle",
+        "book_en_232_page_0.png",
+        "P",
+        "book_en_232_page_0_1.m4a"
+    ],
+    
+    [
+        "232",
+        "1",
+        "2",
+        "S",
+        "Hamisi has a bicycle.",
+        "book_en_232_page_1.png",
+        "P",
+        "book_en_232_page_1_1.m4a"
+    ],
+    
+    [
+        "232",
+        "1",
+        "3",
+        "S",
+        "Hamisi rides his bicycle to school.",
+        "book_en_232_page_2.png",
+        "P",
+        "book_en_232_page_2_1.m4a"
+    ],
+    
+    [
+        "232",
+        "1",
+        "4",
+        "S",
+        "Hamisi rides his bicycle to the store.",
+        "book_en_232_page_3.png",
+        "P",
+        "book_en_232_page_3_1.m4a"
+    ],
+    
+    [
+        "232",
+        "1",
+        "5",
+        "S",
+        "Hamisi rides his bicycle to the market.",
+        "book_en_232_page_4.png",
+        "P",
+        "book_en_232_page_4_1.m4a"
+    ],
+    
+    [
+        "232",
+        "1",
+        "6",
+        "S",
+        "Hamisi rides his bicycle on the street.",
+        "book_en_232_page_5.png",
+        "P",
+        "book_en_232_page_5_1.m4a"
+    ]]

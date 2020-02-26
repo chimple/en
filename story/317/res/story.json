@@ -1,0 +1,111 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "317",
+        "1",
+        "1",
+        "S",
+        "Are We All the Same?",
+        "book_en_317_page_0.png",
+        "P",
+        "book_en_317_page_0_1.m4a"
+    ],
+    
+    [
+        "317",
+        "1",
+        "2",
+        "S",
+        "We are not all the same.",
+        "book_en_317_page_1.png",
+        "L",
+        "book_en_317_page_1_1.m4a"
+    ],
+    
+    [
+        "317",
+        "1",
+        "3",
+        "S",
+        "He is round.",
+        "book_en_317_page_2.png",
+        "L",
+        "book_en_317_page_2_1.m4a"
+    ],
+    
+    [
+        "317",
+        "1",
+        "4",
+        "S",
+        "She has spots on her cheeks.",
+        "book_en_317_page_3.png",
+        "L",
+        "book_en_317_page_3_1.m4a"
+    ],
+    
+    [
+        "317",
+        "1",
+        "5",
+        "S",
+        "He is tall.",
+        "book_en_317_page_4.png",
+        "L",
+        "book_en_317_page_4_1.m4a"
+    ],
+    
+    [
+        "317",
+        "1",
+        "6",
+        "S",
+        "He likes to run.",
+        "book_en_317_page_5.png",
+        "L",
+        "book_en_317_page_5_1.m4a"
+    ],
+    
+    [
+        "317",
+        "1",
+        "7",
+        "S",
+        "She likes to read.",
+        "book_en_317_page_6.png",
+        "L",
+        "book_en_317_page_6_1.m4a"
+    ],
+    
+    [
+        "317",
+        "1",
+        "8",
+        "S",
+        "Her hair is long.",
+        "book_en_317_page_7.png",
+        "L",
+        "book_en_317_page_7_1.m4a"
+    ],
+    
+    [
+        "317",
+        "1",
+        "9",
+        "S",
+        "We are sometimes the same.",
+        "book_en_317_page_8.png",
+        "L",
+        "book_en_317_page_8_1.m4a"
+    ]]

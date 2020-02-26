@@ -1,0 +1,122 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "407",
+        "1",
+        "1",
+        "S",
+        "The Confident Fawn",
+        "book_en_407_page_0.png",
+        "P",
+        "book_en_407_page_0_1.m4a"
+    ],
+    
+    [
+        "407",
+        "1",
+        "2",
+        "S",
+        "A fawn was running in the forest.",
+        "book_en_407_page_1.png",
+        "P",
+        "book_en_407_page_1_1.m4a"
+    ],
+    
+    [
+        "407",
+        "1",
+        "3",
+        "S",
+        "He ran faster than the rabbit. The fawn was so proud.",
+        "book_en_407_page_2.png",
+        "P",
+        "book_en_407_page_2_1.m4a,book_en_407_page_2_2.m4a"
+    ],
+    
+    [
+        "407",
+        "1",
+        "4",
+        "S",
+        "He ran faster than the elephant. The fawn was very proud.",
+        "book_en_407_page_3.png",
+        "P",
+        "book_en_407_page_3_1.m4a,book_en_407_page_3_2.m4a"
+    ],
+    
+    [
+        "407",
+        "1",
+        "5",
+        "S",
+        "He jumped confidently over the stream. The fawn wanted to run faster.",
+        "book_en_407_page_4.png",
+        "P",
+        "book_en_407_page_4_1.m4a,book_en_407_page_4_2.m4a"
+    ],
+    
+    [
+        "407",
+        "1",
+        "6",
+        "S",
+        "He ran past a crumbling wall.",
+        "book_en_407_page_5.png",
+        "P",
+        "book_en_407_page_5_1.m4a"
+    ],
+    
+    [
+        "407",
+        "1",
+        "7",
+        "S",
+        "There was a large rock on the grassy ground. The fawn tripped.",
+        "book_en_407_page_6.png",
+        "P",
+        "book_en_407_page_6_1.m4a,book_en_407_page_6_2.m4a"
+    ],
+    
+    [
+        "407",
+        "1",
+        "8",
+        "S",
+        "He hurt his leg. He burst into heavy tears.",
+        "book_en_407_page_7.png",
+        "P",
+        "book_en_407_page_7_1.m4a,book_en_407_page_7_2.m4a"
+    ],
+    
+    [
+        "407",
+        "1",
+        "9",
+        "S",
+        "The monkey tried to help fix his leg. The fawn cried and cried.",
+        "book_en_407_page_8.png",
+        "P",
+        "book_en_407_page_8_1.m4a,book_en_407_page_8_2.m4a"
+    ],
+    
+    [
+        "407",
+        "1",
+        "10",
+        "S",
+        "The bear tried to help pick him up. The fawn could not stop crying.",
+        "book_en_407_page_9.png",
+        "P",
+        "book_en_407_page_9_1.m4a,book_en_407_page_9_2.m4a"
+    ]]

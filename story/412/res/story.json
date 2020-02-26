@@ -1,0 +1,111 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "412",
+        "1",
+        "1",
+        "S",
+        "Wangari Maathai",
+        "book_en_412_page_0.png",
+        "P",
+        "book_en_412_page_0_1.m4a"
+    ],
+    
+    [
+        "412",
+        "1",
+        "2",
+        "S",
+        "Do you know about Wangari Maathai? She made the world a better place.",
+        "book_en_412_page_1.png",
+        "L",
+        "book_en_412_page_1_1.m4a,book_en_412_page_1_2.m4a"
+    ],
+    
+    [
+        "412",
+        "1",
+        "3",
+        "S",
+        "Wangari was born in 1940. She grew up on a farm. She loved plants and animals.",
+        "book_en_412_page_2.png",
+        "L",
+        "book_en_412_page_2_1.m4a,book_en_412_page_2_2.m4a,book_en_412_page_2_3.m4a"
+    ],
+    
+    [
+        "412",
+        "1",
+        "4",
+        "S",
+        "Wangari went to university in the United States. Then she moved back to her home country to work in the schools.",
+        "book_en_412_page_3.png",
+        "L",
+        "book_en_412_page_3_1.m4a,book_en_412_page_3_2.m4a"
+    ],
+    
+    [
+        "412",
+        "1",
+        "5",
+        "S",
+        "Wangari believed things should be fair. She fought for the rights of the women in the schools.",
+        "book_en_412_page_4.png",
+        "L",
+        "book_en_412_page_4_1.m4a,book_en_412_page_4_2.m4a"
+    ],
+    
+    [
+        "412",
+        "1",
+        "6",
+        "S",
+        "Wangari knew that plants and animals are important to our world. One \"day,\" Wangari realized that the plants and the animals could not fight for themselves.",
+        "book_en_412_page_5.png",
+        "L",
+        "book_en_412_page_5_1.m4a,book_en_412_page_5_2.m4a"
+    ],
+    
+    [
+        "412",
+        "1",
+        "7",
+        "S",
+        "She decided to fight for them. Wangari believed in protecting the plants and animals.",
+        "book_en_412_page_6.png",
+        "L",
+        "book_en_412_page_6_1.m4a,book_en_412_page_6_2.m4a"
+    ],
+    
+    [
+        "412",
+        "1",
+        "8",
+        "S",
+        "Wangari began the Green Belt movement. She led people to plant trees all across the country.",
+        "book_en_412_page_7.png",
+        "L",
+        "book_en_412_page_7_1.m4a,book_en_412_page_7_2.m4a"
+    ],
+    
+    [
+        "412",
+        "1",
+        "9",
+        "S",
+        "The Green Belt movement planted \"many,\" many trees. They made the country more green. They helped the plants and the animals.",
+        "book_en_412_page_8.png",
+        "L",
+        "book_en_412_page_8_1.m4a,book_en_412_page_8_2.m4a,book_en_412_page_8_3.m4a"
+    ]]

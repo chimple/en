@@ -1,0 +1,89 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "347",
+        "1",
+        "1",
+        "S",
+        "Our Friend the Cow",
+        "book_en_347_page_0.png",
+        "P",
+        "book_en_347_page_0_1.m4a"
+    ],
+    
+    [
+        "347",
+        "1",
+        "2",
+        "S",
+        "Good \"morning,\" cow! Time to wake up.",
+        "book_en_347_page_1.png",
+        "P",
+        "book_en_347_page_1_1.m4a,book_en_347_page_1_2.m4a"
+    ],
+    
+    [
+        "347",
+        "1",
+        "3",
+        "S",
+        "Cows live all over the world.",
+        "book_en_347_page_2.png",
+        "P",
+        "book_en_347_page_2_1.m4a"
+    ],
+    
+    [
+        "347",
+        "1",
+        "4",
+        "S",
+        "Some people take care of cows. Cows help people work.",
+        "book_en_347_page_3.png",
+        "P",
+        "book_en_347_page_3_1.m4a,book_en_347_page_3_2.m4a"
+    ],
+    
+    [
+        "347",
+        "1",
+        "5",
+        "S",
+        "Cows make milk. Baby cows eat grass.",
+        "book_en_347_page_4.png",
+        "P",
+        "book_en_347_page_4_1.m4a,book_en_347_page_4_2.m4a"
+    ],
+    
+    [
+        "347",
+        "1",
+        "6",
+        "S",
+        "A baby cow is called a calf.",
+        "book_en_347_page_5.png",
+        "P",
+        "book_en_347_page_5_1.m4a"
+    ],
+    
+    [
+        "347",
+        "1",
+        "7",
+        "S",
+        "Cows eat grass. Some people eat cows.",
+        "book_en_347_page_6.png",
+        "P",
+        "book_en_347_page_6_1.m4a,book_en_347_page_6_2.m4a"
+    ]]

@@ -1,0 +1,100 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "502",
+        "1",
+        "1",
+        "S",
+        "Lucy’s Walk",
+        "book_en_502_page_0.png",
+        "P",
+        "book_en_502_page_0_1.m4a"
+    ],
+    
+    [
+        "502",
+        "1",
+        "2",
+        "S",
+        "Every \"morning,\" Lucy thinks about the plants she will see on the walk to school.",
+        "book_en_502_page_1.png",
+        "P",
+        "book_en_502_page_1_1.m4a"
+    ],
+    
+    [
+        "502",
+        "1",
+        "3",
+        "S",
+        "She thinks about the fruit trees she will greet. Maybe she will get to eat some fruit.",
+        "book_en_502_page_2.png",
+        "P",
+        "book_en_502_page_2_1.m4a,book_en_502_page_2_2.m4a"
+    ],
+    
+    [
+        "502",
+        "1",
+        "4",
+        "S",
+        "On the way to \"school,\" Lucy walks through a field of flowers. She picks a pretty pink flower.",
+        "book_en_502_page_3.png",
+        "P",
+        "book_en_502_page_3_1.m4a,book_en_502_page_3_2.m4a"
+    ],
+    
+    [
+        "502",
+        "1",
+        "5",
+        "S",
+        "Lucy takes a deep breath through her nose. The flower smells sweet.",
+        "book_en_502_page_4.png",
+        "P",
+        "book_en_502_page_4_1.m4a,book_en_502_page_4_2.m4a"
+    ],
+    
+    [
+        "502",
+        "1",
+        "6",
+        "S",
+        "Lucy sits down in the field. Pretty flowers are all around her. She feels happy.",
+        "book_en_502_page_5.png",
+        "P",
+        "book_en_502_page_5_1.m4a,book_en_502_page_5_2.m4a,book_en_502_page_5_3.m4a"
+    ],
+    
+    [
+        "502",
+        "1",
+        "7",
+        "S",
+        "Lucy passes a fruit tree. The fruits on the tree are green. The fruits are not ripe yet.",
+        "book_en_502_page_6.png",
+        "P",
+        "book_en_502_page_6_1.m4a,book_en_502_page_6_2.m4a,book_en_502_page_6_3.m4a"
+    ],
+    
+    [
+        "502",
+        "1",
+        "8",
+        "S",
+        "“Get ripe \"soon,”\" Lucy tells the fruit. “I am hungry!”",
+        "book_en_502_page_7.png",
+        "P",
+        "book_en_502_page_7_1.m4a,book_en_502_page_7_2.m4a,book_en_502_page_7_3.m4a"
+    ]]

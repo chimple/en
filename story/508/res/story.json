@@ -1,0 +1,166 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "508",
+        "1",
+        "1",
+        "S",
+        "A Happy Kingdom",
+        "book_en_508_page_0.png",
+        "P",
+        "book_en_508_page_0_1.m4a"
+    ],
+    
+    [
+        "508",
+        "1",
+        "2",
+        "S",
+        "Once there was a happy king. He wanted all the people and animals in his kingdom to be \"happy,\" too. He decided to hold a festival for his subjects.",
+        "book_en_508_page_1.png",
+        "L",
+        "book_en_508_page_1_1.m4a,book_en_508_page_1_2.m4a,book_en_508_page_1_3.m4a"
+    ],
+    
+    [
+        "508",
+        "1",
+        "3",
+        "S",
+        "Singing and dancing made the king happy. “I will sing a song to announce the festival. I will ask my subjects to spread the word by singing the same song. Because we all use legs for \"dancing,\" the festival will be a time to show off our amazing legs.”",
+        "book_en_508_page_2.png",
+        "L",
+        "book_en_508_page_2_1.m4a,book_en_508_page_2_2.m4a,book_en_508_page_2_3.m4a,book_en_508_page_2_4.m4a"
+    ],
+    
+    [
+        "508",
+        "1",
+        "4",
+        "S",
+        "All around the \"kingdom,\" animals sang the song. The song invited everyone to dance at the king's house at the top of the hill. There would be three whole days to celebrate legs and dancing!",
+        "book_en_508_page_3.png",
+        "L",
+        "book_en_508_page_3_1.m4a,book_en_508_page_3_2.m4a,book_en_508_page_3_3.m4a"
+    ],
+    
+    [
+        "508",
+        "1",
+        "5",
+        "S",
+        "When it was time for the \"festival,\" all the people and animals in the kingdom traveled to the hill. Some of them journeyed for weeks. They marched in a long line up to the king's house.",
+        "book_en_508_page_4.png",
+        "L",
+        "book_en_508_page_4_1.m4a,book_en_508_page_4_2.m4a,book_en_508_page_4_3.m4a"
+    ],
+    
+    [
+        "508",
+        "1",
+        "6",
+        "S",
+        "The king welcomed his subjects a few at a time. On the first \"day,\" two people tapped their feet and stepped to a beat. The king \"said,\" “You both have good legs for dancing.”",
+        "book_en_508_page_5.png",
+        "L",
+        "book_en_508_page_5_1.m4a,book_en_508_page_5_2.m4a,book_en_508_page_5_3.m4a,book_en_508_page_5_4.m4a"
+    ],
+    
+    [
+        "508",
+        "1",
+        "7",
+        "S",
+        "A mouse told the \"king,\" “I dream of having longer legs.” The king \"said,\" “But you and your friend the alligator have wonderful short legs.” The mouse and the alligator danced away feeling happy.",
+        "book_en_508_page_6.png",
+        "L",
+        "book_en_508_page_6_1.m4a,book_en_508_page_6_2.m4a,book_en_508_page_6_3.m4a,book_en_508_page_6_4.m4a,book_en_508_page_6_5.m4a"
+    ],
+    
+    [
+        "508",
+        "1",
+        "8",
+        "S",
+        "On the second \"day,\" another pair came in. “You have lovely long \"legs,”\" the king said. He clapped until his hands tingled. The animals were proud and happy.",
+        "book_en_508_page_7.png",
+        "L",
+        "book_en_508_page_7_1.m4a,book_en_508_page_7_2.m4a,book_en_508_page_7_3.m4a,book_en_508_page_7_4.m4a,book_en_508_page_7_5.m4a"
+    ],
+    
+    [
+        "508",
+        "1",
+        "9",
+        "S",
+        "Some \"birds,\" a \"lion,\" a \"rhino,\" a \"rabbit,\" and a turtle all danced by the king. “Some of you have two \"legs,\" and some of you have four. Some legs are thick and some are skinny. They are all beautiful!” said the king.",
+        "book_en_508_page_8.png",
+        "L",
+        "book_en_508_page_8_1.m4a,book_en_508_page_8_2.m4a,book_en_508_page_8_3.m4a,book_en_508_page_8_4.m4a,book_en_508_page_8_5.m4a"
+    ],
+    
+    [
+        "508",
+        "1",
+        "10",
+        "S",
+        "By the third \"day,\" only a few subjects had not yet met the king. He was worried when an animal inched into the room on her belly. “Where are your legs?” the king asked.",
+        "book_en_508_page_9.png",
+        "L",
+        "book_en_508_page_9_1.m4a,book_en_508_page_9_2.m4a,book_en_508_page_9_3.m4a,book_en_508_page_9_4.m4a"
+    ],
+    
+    [
+        "508",
+        "1",
+        "11",
+        "S",
+        "“Surprise!” said the centipede. “I was hiding my legs!” The king clapped and \"said,\" “You have so many \"legs,\" I cannot count them all!”",
+        "book_en_508_page_10.png",
+        "L",
+        "book_en_508_page_10_1.m4a,book_en_508_page_10_2.m4a,book_en_508_page_10_3.m4a,book_en_508_page_10_4.m4a,book_en_508_page_10_5.m4a"
+    ],
+    
+    [
+        "508",
+        "1",
+        "12",
+        "S",
+        "The last animal came into the room. “Are you hiding your \"legs,\" too?” asked the king. \"“No,”\" said the snake. “I have no legs.”",
+        "book_en_508_page_11.png",
+        "L",
+        "book_en_508_page_11_1.m4a,book_en_508_page_11_2.m4a,book_en_508_page_11_3.m4a,book_en_508_page_11_4.m4a,book_en_508_page_11_5.m4a,book_en_508_page_11_6.m4a"
+    ],
+    
+    [
+        "508",
+        "1",
+        "13",
+        "S",
+        "The king \"thought,\" “I forgot about animals with no legs. What can I do?” He looked for something to help the \"snake,\" but he had nothing. He thought and thought.",
+        "book_en_508_page_12.png",
+        "L",
+        "book_en_508_page_12_1.m4a,book_en_508_page_12_2.m4a,book_en_508_page_12_3.m4a,book_en_508_page_12_4.m4a,book_en_508_page_12_5.m4a"
+    ],
+    
+    [
+        "508",
+        "1",
+        "14",
+        "S",
+        "“I did not need legs to be happy. I can dance by moving my \"head,”\" said the snake. “But I am sad that your festival is all about legs and dancing when I do not have any legs. The snake began to leave.",
+        "book_en_508_page_13.png",
+        "L",
+        "book_en_508_page_13_1.m4a,book_en_508_page_13_2.m4a,book_en_508_page_13_3.m4a,book_en_508_page_13_4.m4a,book_en_508_page_13_5.m4a"
+    ]]

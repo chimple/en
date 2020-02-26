@@ -1,0 +1,133 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "404",
+        "1",
+        "1",
+        "S",
+        "Nia and the Dirt Monsters",
+        "book_en_404_page_0.png",
+        "P",
+        "book_en_404_page_0_1.m4a"
+    ],
+    
+    [
+        "404",
+        "1",
+        "2",
+        "S",
+        "Nia goes outside to play.",
+        "book_en_404_page_1.png",
+        "P",
+        "book_en_404_page_1_1.m4a"
+    ],
+    
+    [
+        "404",
+        "1",
+        "3",
+        "S",
+        "Nia plays with her boat in the rain. She gets dirty.",
+        "book_en_404_page_2.png",
+        "P",
+        "book_en_404_page_2_1.m4a,book_en_404_page_2_2.m4a"
+    ],
+    
+    [
+        "404",
+        "1",
+        "4",
+        "S",
+        "She makes a castle out of sand. She gets dirtier.",
+        "book_en_404_page_3.png",
+        "P",
+        "book_en_404_page_3_1.m4a,book_en_404_page_3_2.m4a"
+    ],
+    
+    [
+        "404",
+        "1",
+        "5",
+        "S",
+        "Mother \"says,\" “You are too dirty! Take this soap and get clean.”",
+        "book_en_404_page_4.png",
+        "P",
+        "book_en_404_page_4_1.m4a,book_en_404_page_4_2.m4a,book_en_404_page_4_3.m4a"
+    ],
+    
+    [
+        "404",
+        "1",
+        "6",
+        "S",
+        "Nia \"says,\" “I don't want to wash.” She kicks the soap.",
+        "book_en_404_page_5.png",
+        "P",
+        "book_en_404_page_5_1.m4a,book_en_404_page_5_2.m4a,book_en_404_page_5_3.m4a"
+    ],
+    
+    [
+        "404",
+        "1",
+        "7",
+        "S",
+        "That \"night,\" she dreams she is a princess. Dirt monsters attack the castle!",
+        "book_en_404_page_6.png",
+        "P",
+        "book_en_404_page_6_1.m4a,book_en_404_page_6_2.m4a"
+    ],
+    
+    [
+        "404",
+        "1",
+        "8",
+        "S",
+        "The dirt and bugs are all around her. Nia tries to run away.",
+        "book_en_404_page_7.png",
+        "P",
+        "book_en_404_page_7_1.m4a,book_en_404_page_7_2.m4a"
+    ],
+    
+    [
+        "404",
+        "1",
+        "9",
+        "S",
+        "Super Soap comes to save the day! “I will clean up the \"monsters,”\" he says.",
+        "book_en_404_page_8.png",
+        "P",
+        "book_en_404_page_8_1.m4a,book_en_404_page_8_2.m4a,book_en_404_page_8_3.m4a"
+    ],
+    
+    [
+        "404",
+        "1",
+        "10",
+        "S",
+        "Super Soap sends out bubbles. The bubbles chase away the bugs and dirt.",
+        "book_en_404_page_9.png",
+        "P",
+        "book_en_404_page_9_1.m4a,book_en_404_page_9_2.m4a"
+    ],
+    
+    [
+        "404",
+        "1",
+        "11",
+        "S",
+        "In the \"morning,\" Mother gives Nia soap. Nia \"says,\" “Now I like to wash.”",
+        "book_en_404_page_10.png",
+        "P",
+        "book_en_404_page_10_1.m4a,book_en_404_page_10_2.m4a,book_en_404_page_10_3.m4a"
+    ]]

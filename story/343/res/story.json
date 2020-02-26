@@ -1,0 +1,100 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "343",
+        "1",
+        "1",
+        "S",
+        "Like an Elephant",
+        "book_en_343_page_0.png",
+        "P",
+        "book_en_343_page_0_1.m4a"
+    ],
+    
+    [
+        "343",
+        "1",
+        "2",
+        "S",
+        "These are elephants. Let’s learn about them.",
+        "book_en_343_page_1.png",
+        "L",
+        "book_en_343_page_1_1.m4a,book_en_343_page_1_2.m4a"
+    ],
+    
+    [
+        "343",
+        "1",
+        "3",
+        "S",
+        "This is an elephant and its baby. A baby elephant is called a calf.",
+        "book_en_343_page_2.png",
+        "L",
+        "book_en_343_page_2_1.m4a,book_en_343_page_2_2.m4a"
+    ],
+    
+    [
+        "343",
+        "1",
+        "4",
+        "S",
+        "An elephant’s nose is called a trunk.",
+        "book_en_343_page_3.png",
+        "L",
+        "book_en_343_page_3_1.m4a"
+    ],
+    
+    [
+        "343",
+        "1",
+        "5",
+        "S",
+        "Elephants use their trunks to throw dirt.",
+        "book_en_343_page_4.png",
+        "L",
+        "book_en_343_page_4_1.m4a"
+    ],
+    
+    [
+        "343",
+        "1",
+        "6",
+        "S",
+        "Elephants use their trunks to eat.",
+        "book_en_343_page_5.png",
+        "L",
+        "book_en_343_page_5_1.m4a"
+    ],
+    
+    [
+        "343",
+        "1",
+        "7",
+        "S",
+        "Elephants use their trunks to bathe.",
+        "book_en_343_page_6.png",
+        "L",
+        "book_en_343_page_6_1.m4a"
+    ],
+    
+    [
+        "343",
+        "1",
+        "8",
+        "S",
+        "Some elephants have tusks. Tusks are big teeth!",
+        "book_en_343_page_7.png",
+        "L",
+        "book_en_343_page_7_1.m4a,book_en_343_page_7_2.m4a"
+    ]]

@@ -1,0 +1,111 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "346",
+        "1",
+        "1",
+        "S",
+        "Neema at the Clinic",
+        "book_en_346_page_0.png",
+        "P",
+        "book_en_346_page_0_1.m4a"
+    ],
+    
+    [
+        "346",
+        "1",
+        "2",
+        "S",
+        "Neema was very sick.",
+        "book_en_346_page_1.png",
+        "P",
+        "book_en_346_page_1_1.m4a"
+    ],
+    
+    [
+        "346",
+        "1",
+        "3",
+        "S",
+        "Neema’s mother took her to the clinic.",
+        "book_en_346_page_2.png",
+        "P",
+        "book_en_346_page_2_1.m4a"
+    ],
+    
+    [
+        "346",
+        "1",
+        "4",
+        "S",
+        "Neema told them her name.",
+        "book_en_346_page_3.png",
+        "P",
+        "book_en_346_page_3_1.m4a"
+    ],
+    
+    [
+        "346",
+        "1",
+        "5",
+        "S",
+        "After a \"while,\" the doctor called for Neema.",
+        "book_en_346_page_4.png",
+        "P",
+        "book_en_346_page_4_1.m4a"
+    ],
+    
+    [
+        "346",
+        "1",
+        "6",
+        "S",
+        "Neema’s mother told the doctor how Neema was feeling.",
+        "book_en_346_page_5.png",
+        "P",
+        "book_en_346_page_5_1.m4a"
+    ],
+    
+    [
+        "346",
+        "1",
+        "7",
+        "S",
+        "The doctor checked Neema’s blood.",
+        "book_en_346_page_6.png",
+        "P",
+        "book_en_346_page_6_1.m4a"
+    ],
+    
+    [
+        "346",
+        "1",
+        "8",
+        "S",
+        "The doctor told Neema to get medicine.",
+        "book_en_346_page_7.png",
+        "P",
+        "book_en_346_page_7_1.m4a"
+    ],
+    
+    [
+        "346",
+        "1",
+        "9",
+        "S",
+        "Neema and her mother went to the medicine window.",
+        "book_en_346_page_8.png",
+        "P",
+        "book_en_346_page_8_1.m4a"
+    ]]

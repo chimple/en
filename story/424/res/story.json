@@ -1,0 +1,166 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "424",
+        "1",
+        "1",
+        "S",
+        "Let’s Learn About the Clock",
+        "book_en_424_page_0.png",
+        "P",
+        "book_en_424_page_0_1.m4a"
+    ],
+    
+    [
+        "424",
+        "1",
+        "2",
+        "S",
+        "A clock counts hours and minutes.",
+        "book_en_424_page_1.png",
+        "L",
+        "book_en_424_page_1_1.m4a"
+    ],
+    
+    [
+        "424",
+        "1",
+        "3",
+        "S",
+        "The short hand points to the hour. The long hand points to the minute.",
+        "book_en_424_page_2.png",
+        "L",
+        "book_en_424_page_2_1.m4a,book_en_424_page_2_2.m4a"
+    ],
+    
+    [
+        "424",
+        "1",
+        "4",
+        "S",
+        "The long hand is pointing at the 12. The short hand is pointing at the 1. That means it is one o’clock.",
+        "book_en_424_page_3.png",
+        "L",
+        "book_en_424_page_3_1.m4a,book_en_424_page_3_2.m4a,book_en_424_page_3_3.m4a"
+    ],
+    
+    [
+        "424",
+        "1",
+        "5",
+        "S",
+        "The long hand is pointing at the 12. The short hand is pointing at the 2. That means it is two o’clock.",
+        "book_en_424_page_4.png",
+        "L",
+        "book_en_424_page_4_1.m4a,book_en_424_page_4_2.m4a,book_en_424_page_4_3.m4a"
+    ],
+    
+    [
+        "424",
+        "1",
+        "6",
+        "S",
+        "The long hand is pointing at the 12. The short hand is pointing at the 3. That means it is three o’clock.",
+        "book_en_424_page_5.png",
+        "L",
+        "book_en_424_page_5_1.m4a,book_en_424_page_5_2.m4a,book_en_424_page_5_3.m4a"
+    ],
+    
+    [
+        "424",
+        "1",
+        "7",
+        "S",
+        "The long hand is pointing at the 12. The short hand is pointing at the 4. That means it is four o’clock.",
+        "book_en_424_page_6.png",
+        "L",
+        "book_en_424_page_6_1.m4a,book_en_424_page_6_2.m4a,book_en_424_page_6_3.m4a"
+    ],
+    
+    [
+        "424",
+        "1",
+        "8",
+        "S",
+        "The long hand is pointing at the 12. The short hand is pointing at the 5. That means it is five o’clock.",
+        "book_en_424_page_7.png",
+        "L",
+        "book_en_424_page_7_1.m4a,book_en_424_page_7_2.m4a,book_en_424_page_7_3.m4a"
+    ],
+    
+    [
+        "424",
+        "1",
+        "9",
+        "S",
+        "The long hand is pointing at the 12. The short hand is pointing at the 6. That means it is six o’clock.",
+        "book_en_424_page_8.png",
+        "L",
+        "book_en_424_page_8_1.m4a,book_en_424_page_8_2.m4a,book_en_424_page_8_3.m4a"
+    ],
+    
+    [
+        "424",
+        "1",
+        "10",
+        "S",
+        "The long hand is pointing at the 12. The short hand is pointing at the 7. That means it is seven o’clock.",
+        "book_en_424_page_9.png",
+        "L",
+        "book_en_424_page_9_1.m4a,book_en_424_page_9_2.m4a,book_en_424_page_9_3.m4a"
+    ],
+    
+    [
+        "424",
+        "1",
+        "11",
+        "S",
+        "The long hand is pointing at the 12. The short hand is pointing at the 8. That means it is eight o’clock.",
+        "book_en_424_page_10.png",
+        "L",
+        "book_en_424_page_10_1.m4a,book_en_424_page_10_2.m4a,book_en_424_page_10_3.m4a"
+    ],
+    
+    [
+        "424",
+        "1",
+        "12",
+        "S",
+        "The long hand is pointing at the 12. The short hand is pointing at the 9. That means it is nine o’clock.",
+        "book_en_424_page_11.png",
+        "L",
+        "book_en_424_page_11_1.m4a,book_en_424_page_11_2.m4a,book_en_424_page_11_3.m4a"
+    ],
+    
+    [
+        "424",
+        "1",
+        "13",
+        "S",
+        "The long hand is pointing at the 12. The short hand is pointing at the 10. That means it is ten o’clock.",
+        "book_en_424_page_12.png",
+        "L",
+        "book_en_424_page_12_1.m4a,book_en_424_page_12_2.m4a,book_en_424_page_12_3.m4a"
+    ],
+    
+    [
+        "424",
+        "1",
+        "14",
+        "S",
+        "The long hand is pointing at the 12. The short hand is pointing at the 11. That means it is eleven o’clock.",
+        "book_en_424_page_13.png",
+        "L",
+        "book_en_424_page_13_1.m4a,book_en_424_page_13_2.m4a,book_en_424_page_13_3.m4a"
+    ]]

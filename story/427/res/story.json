@@ -1,0 +1,67 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "427",
+        "1",
+        "1",
+        "S",
+        "Simple Subtraction",
+        "book_en_427_page_0.png",
+        "P",
+        "book_en_427_page_0_1.m4a"
+    ],
+    
+    [
+        "427",
+        "1",
+        "2",
+        "S",
+        "Can you help me solve these problems?",
+        "book_en_427_page_1.png",
+        "L",
+        "book_en_427_page_1_1.m4a"
+    ],
+    
+    [
+        "427",
+        "1",
+        "3",
+        "S",
+        "I have 2 mangoes. I eat one mango. How many mangoes are left? 2 - 1 = 1",
+        "book_en_427_page_2.png",
+        "L",
+        "book_en_427_page_2_1.m4a,book_en_427_page_2_2.m4a,book_en_427_page_2_3.m4a,book_en_427_page_2_4.m4a"
+    ],
+    
+    [
+        "427",
+        "1",
+        "4",
+        "S",
+        "We have 4 coconuts. We eat 2 coconuts. How many coconuts are left? 4 - 2 = 2",
+        "book_en_427_page_3.png",
+        "L",
+        "book_en_427_page_3_1.m4a,book_en_427_page_3_2.m4a,book_en_427_page_3_3.m4a,book_en_427_page_3_4.m4a"
+    ],
+    
+    [
+        "427",
+        "1",
+        "5",
+        "S",
+        "I have 4 sticks. I lost 1 stick. How many sticks are left? 4 - 1 = 3",
+        "book_en_427_page_4.png",
+        "L",
+        "book_en_427_page_4_1.m4a,book_en_427_page_4_2.m4a,book_en_427_page_4_3.m4a,book_en_427_page_4_4.m4a"
+    ]]

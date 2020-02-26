@@ -1,0 +1,89 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "108",
+        "1",
+        "1",
+        "S",
+        "Three Clothes",
+        "book_en_108_page_0.png",
+        "P",
+        "book_en_108_page_0_1.m4a"
+    ],
+    
+    [
+        "108",
+        "1",
+        "2",
+        "S",
+        "\"1,\" \"2,\" 3 shirts.",
+        "book_en_108_page_1.png",
+        "P",
+        "book_en_108_page_1_1.m4a"
+    ],
+    
+    [
+        "108",
+        "1",
+        "3",
+        "S",
+        "\"1,\" \"2,\" 3 pairs of pants.",
+        "book_en_108_page_2.png",
+        "P",
+        "book_en_108_page_2_1.m4a"
+    ],
+    
+    [
+        "108",
+        "1",
+        "4",
+        "S",
+        "\"1,\" \"2,\" 3 pairs of shorts.",
+        "book_en_108_page_3.png",
+        "P",
+        "book_en_108_page_3_1.m4a"
+    ],
+    
+    [
+        "108",
+        "1",
+        "5",
+        "S",
+        "\"1,\" \"2,\" 3 skirts.",
+        "book_en_108_page_4.png",
+        "P",
+        "book_en_108_page_4_1.m4a"
+    ],
+    
+    [
+        "108",
+        "1",
+        "6",
+        "S",
+        "\"1,\" \"2,\" 3 dresses.",
+        "book_en_108_page_5.png",
+        "P",
+        "book_en_108_page_5_1.m4a"
+    ],
+    
+    [
+        "108",
+        "1",
+        "7",
+        "S",
+        "\"1,\" \"2,\" 3 pairs of shoes.",
+        "book_en_108_page_6.png",
+        "P",
+        "book_en_108_page_6_1.m4a"
+    ]]

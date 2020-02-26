@@ -1,0 +1,100 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "334",
+        "1",
+        "1",
+        "S",
+        "Opposites",
+        "book_en_334_page_0.png",
+        "P",
+        "book_en_334_page_0_1.m4a"
+    ],
+    
+    [
+        "334",
+        "1",
+        "2",
+        "S",
+        "A fire is hot. What is cold?",
+        "book_en_334_page_1.png",
+        "L",
+        "book_en_334_page_1_1.m4a,book_en_334_page_1_2.m4a"
+    ],
+    
+    [
+        "334",
+        "1",
+        "3",
+        "S",
+        "Snow is cold. Snow is not hot.",
+        "book_en_334_page_2.png",
+        "L",
+        "book_en_334_page_2_1.m4a,book_en_334_page_2_2.m4a"
+    ],
+    
+    [
+        "334",
+        "1",
+        "4",
+        "S",
+        "An ocean is wet. What is dry?",
+        "book_en_334_page_3.png",
+        "L",
+        "book_en_334_page_3_1.m4a,book_en_334_page_3_2.m4a"
+    ],
+    
+    [
+        "334",
+        "1",
+        "5",
+        "S",
+        "A desert is dry. A desert is not wet.",
+        "book_en_334_page_4.png",
+        "L",
+        "book_en_334_page_4_1.m4a,book_en_334_page_4_2.m4a"
+    ],
+    
+    [
+        "334",
+        "1",
+        "6",
+        "S",
+        "The sky is up. What is down?",
+        "book_en_334_page_5.png",
+        "L",
+        "book_en_334_page_5_1.m4a,book_en_334_page_5_2.m4a"
+    ],
+    
+    [
+        "334",
+        "1",
+        "7",
+        "S",
+        "The land is down. The land is not up.",
+        "book_en_334_page_6.png",
+        "L",
+        "book_en_334_page_6_1.m4a,book_en_334_page_6_2.m4a"
+    ],
+    
+    [
+        "334",
+        "1",
+        "8",
+        "S",
+        "Day is bright. What is dark?",
+        "book_en_334_page_7.png",
+        "L",
+        "book_en_334_page_7_1.m4a,book_en_334_page_7_2.m4a"
+    ]]

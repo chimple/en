@@ -1,0 +1,67 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "230",
+        "1",
+        "1",
+        "S",
+        "We Say It Every Day!",
+        "book_en_230_page_0.png",
+        "P",
+        "book_en_230_page_0_1.m4a"
+    ],
+    
+    [
+        "230",
+        "1",
+        "2",
+        "S",
+        "We \"said,\" “Hello.”",
+        "book_en_230_page_1.png",
+        "P",
+        "book_en_230_page_1_1.m4a"
+    ],
+    
+    [
+        "230",
+        "1",
+        "3",
+        "S",
+        "I \"asked,\" “Can I help you?”",
+        "book_en_230_page_2.png",
+        "P",
+        "book_en_230_page_2_1.m4a"
+    ],
+    
+    [
+        "230",
+        "1",
+        "4",
+        "S",
+        "She \"said,\" “Yes please. Thank you.”",
+        "book_en_230_page_3.png",
+        "P",
+        "book_en_230_page_3_1.m4a,book_en_230_page_3_2.m4a"
+    ],
+    
+    [
+        "230",
+        "1",
+        "5",
+        "S",
+        "I \"said,\" “You are welcome.”",
+        "book_en_230_page_4.png",
+        "P",
+        "book_en_230_page_4_1.m4a"
+    ]]

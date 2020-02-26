@@ -1,0 +1,100 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "353",
+        "1",
+        "1",
+        "S",
+        "A Home for Bug",
+        "book_en_353_page_0.png",
+        "P",
+        "book_en_353_page_0_1.m4a"
+    ],
+    
+    [
+        "353",
+        "1",
+        "2",
+        "S",
+        "Simon likes to dig. Bug crawls on his leg.",
+        "book_en_353_page_1.png",
+        "P",
+        "book_en_353_page_1_1.m4a,book_en_353_page_1_2.m4a"
+    ],
+    
+    [
+        "353",
+        "1",
+        "3",
+        "S",
+        "Simon digs a hole. He \"says,\" “This is your home.”",
+        "book_en_353_page_2.png",
+        "P",
+        "book_en_353_page_2_1.m4a,book_en_353_page_2_2.m4a,book_en_353_page_2_3.m4a"
+    ],
+    
+    [
+        "353",
+        "1",
+        "4",
+        "S",
+        "Some boys play football near the hole.",
+        "book_en_353_page_3.png",
+        "P",
+        "book_en_353_page_3_1.m4a"
+    ],
+    
+    [
+        "353",
+        "1",
+        "5",
+        "S",
+        "The ball rolls over the hole! Bug is afraid.",
+        "book_en_353_page_4.png",
+        "P",
+        "book_en_353_page_4_1.m4a,book_en_353_page_4_2.m4a"
+    ],
+    
+    [
+        "353",
+        "1",
+        "6",
+        "S",
+        "Simon digs a new hole behind a tree.",
+        "book_en_353_page_5.png",
+        "P",
+        "book_en_353_page_5_1.m4a"
+    ],
+    
+    [
+        "353",
+        "1",
+        "7",
+        "S",
+        "“You will be safe \"here,”\" Simon tells Bug.",
+        "book_en_353_page_6.png",
+        "P",
+        "book_en_353_page_6_1.m4a,book_en_353_page_6_2.m4a"
+    ],
+    
+    [
+        "353",
+        "1",
+        "8",
+        "S",
+        "Bug is snug in his new home. Simon likes bug.",
+        "book_en_353_page_7.png",
+        "P",
+        "book_en_353_page_7_1.m4a,book_en_353_page_7_2.m4a"
+    ]]

@@ -1,0 +1,100 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "416",
+        "1",
+        "1",
+        "S",
+        "Let’s Do Math!",
+        "book_en_416_page_0.png",
+        "P",
+        "book_en_416_page_0_1.m4a"
+    ],
+    
+    [
+        "416",
+        "1",
+        "2",
+        "S",
+        "I have three pebbles.",
+        "book_en_416_page_1.png",
+        "L",
+        "book_en_416_page_1_1.m4a"
+    ],
+    
+    [
+        "416",
+        "1",
+        "3",
+        "S",
+        "My friend gives me four more pebbles. How many pebbles do I have?",
+        "book_en_416_page_2.png",
+        "L",
+        "book_en_416_page_2_1.m4a,book_en_416_page_2_2.m4a"
+    ],
+    
+    [
+        "416",
+        "1",
+        "4",
+        "S",
+        "Three pebbles plus four pebbles. What is three plus four?",
+        "book_en_416_page_3.png",
+        "L",
+        "book_en_416_page_3_1.m4a,book_en_416_page_3_2.m4a"
+    ],
+    
+    [
+        "416",
+        "1",
+        "5",
+        "S",
+        "Three plus four is seven! I have seven pebbles.",
+        "book_en_416_page_4.png",
+        "L",
+        "book_en_416_page_4_1.m4a,book_en_416_page_4_2.m4a"
+    ],
+    
+    [
+        "416",
+        "1",
+        "6",
+        "S",
+        "I have five bottle caps.",
+        "book_en_416_page_5.png",
+        "L",
+        "book_en_416_page_5_1.m4a"
+    ],
+    
+    [
+        "416",
+        "1",
+        "7",
+        "S",
+        "I give my friend three bottle caps. How many bottle caps do I have now?",
+        "book_en_416_page_6.png",
+        "L",
+        "book_en_416_page_6_1.m4a,book_en_416_page_6_2.m4a"
+    ],
+    
+    [
+        "416",
+        "1",
+        "8",
+        "S",
+        "Five bottle caps minus three bottle caps. What is five minus three?",
+        "book_en_416_page_7.png",
+        "L",
+        "book_en_416_page_7_1.m4a,book_en_416_page_7_2.m4a"
+    ]]

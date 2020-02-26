@@ -1,0 +1,100 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "336",
+        "1",
+        "1",
+        "S",
+        "Julius Nyerere",
+        "book_en_336_page_0.png",
+        "P",
+        "book_en_336_page_0_1.m4a"
+    ],
+    
+    [
+        "336",
+        "1",
+        "2",
+        "S",
+        "Julius Nyerere was the first President of Tanzania.",
+        "book_en_336_page_1.png",
+        "P",
+        "book_en_336_page_1_1.m4a"
+    ],
+    
+    [
+        "336",
+        "1",
+        "3",
+        "S",
+        "President Nyerere was born in 1922 in Butiama village.",
+        "book_en_336_page_2.png",
+        "P",
+        "book_en_336_page_2_1.m4a"
+    ],
+    
+    [
+        "336",
+        "1",
+        "4",
+        "S",
+        "President Nyerere went to University in Uganda and England.",
+        "book_en_336_page_3.png",
+        "P",
+        "book_en_336_page_3_1.m4a"
+    ],
+    
+    [
+        "336",
+        "1",
+        "5",
+        "S",
+        "President Nyerere was a teacher too.",
+        "book_en_336_page_4.png",
+        "P",
+        "book_en_336_page_4_1.m4a"
+    ],
+    
+    [
+        "336",
+        "1",
+        "6",
+        "S",
+        "President Nyerere fought for independence.",
+        "book_en_336_page_5.png",
+        "P",
+        "book_en_336_page_5_1.m4a"
+    ],
+    
+    [
+        "336",
+        "1",
+        "7",
+        "S",
+        "President Nyerere is called the father of the nation.",
+        "book_en_336_page_6.png",
+        "P",
+        "book_en_336_page_6_1.m4a"
+    ],
+    
+    [
+        "336",
+        "1",
+        "8",
+        "S",
+        "President Nyerere made Swahili the national language.",
+        "book_en_336_page_7.png",
+        "P",
+        "book_en_336_page_7_1.m4a"
+    ]]

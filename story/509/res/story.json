@@ -1,0 +1,122 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "509",
+        "1",
+        "1",
+        "S",
+        "Understanding Elephants",
+        "book_en_509_page_0.png",
+        "P",
+        "book_en_509_page_0_1.m4a"
+    ],
+    
+    [
+        "509",
+        "1",
+        "2",
+        "S",
+        "Have you ever seen an elephant? Elephants are big. They have grey or brown \"skin,\" large ears and a long nose. An elephant’s nose is called a trunk.",
+        "book_en_509_page_1.png",
+        "L",
+        "book_en_509_page_1_1.m4a,book_en_509_page_1_2.m4a,book_en_509_page_1_3.m4a,book_en_509_page_1_4.m4a"
+    ],
+    
+    [
+        "509",
+        "1",
+        "3",
+        "S",
+        "Elephants live together in big groups called herds. Baby elephants are called calves.",
+        "book_en_509_page_2.png",
+        "L",
+        "book_en_509_page_2_1.m4a,book_en_509_page_2_2.m4a"
+    ],
+    
+    [
+        "509",
+        "1",
+        "4",
+        "S",
+        "Even elephant calves are big. They weigh about 120 kilograms when they are born! Elephant calves learn from their parents.",
+        "book_en_509_page_3.png",
+        "L",
+        "book_en_509_page_3_1.m4a,book_en_509_page_3_2.m4a,book_en_509_page_3_3.m4a"
+    ],
+    
+    [
+        "509",
+        "1",
+        "5",
+        "S",
+        "An elephant uses its trunk like an arm or hand. A trunk can bend and stretch to help the elephant.",
+        "book_en_509_page_4.png",
+        "L",
+        "book_en_509_page_4_1.m4a,book_en_509_page_4_2.m4a"
+    ],
+    
+    [
+        "509",
+        "1",
+        "6",
+        "S",
+        "Elephants use their trunks to eat food. They pick up leaves with their trunks and put them in their mouths.",
+        "book_en_509_page_5.png",
+        "L",
+        "book_en_509_page_5_1.m4a,book_en_509_page_5_2.m4a"
+    ],
+    
+    [
+        "509",
+        "1",
+        "7",
+        "S",
+        "Elephants bathe in lakes or rivers. They use their trunks to spray water on themselves and other elephants.",
+        "book_en_509_page_6.png",
+        "L",
+        "book_en_509_page_6_1.m4a,book_en_509_page_6_2.m4a"
+    ],
+    
+    [
+        "509",
+        "1",
+        "8",
+        "S",
+        "After they \"bathe,\" elephants throw dirt on their backs. The dirt protects elephants from the strong sun.",
+        "book_en_509_page_7.png",
+        "L",
+        "book_en_509_page_7_1.m4a,book_en_509_page_7_2.m4a"
+    ],
+    
+    [
+        "509",
+        "1",
+        "9",
+        "S",
+        "Elephant skin is tough and wrinkly. This is a very close picture of an elephant's skin.",
+        "book_en_509_page_8.png",
+        "L",
+        "book_en_509_page_8_1.m4a,book_en_509_page_8_2.m4a"
+    ],
+    
+    [
+        "509",
+        "1",
+        "10",
+        "S",
+        "Many elephants also have tusks. Tusks are really big teeth! Elephants use their tusks to dig.",
+        "book_en_509_page_9.png",
+        "L",
+        "book_en_509_page_9_1.m4a,book_en_509_page_9_2.m4a,book_en_509_page_9_3.m4a"
+    ]]

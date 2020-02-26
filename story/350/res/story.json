@@ -1,0 +1,100 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "350",
+        "1",
+        "1",
+        "S",
+        "Neema Helps Her Friends",
+        "book_en_350_page_0.png",
+        "P",
+        "book_en_350_page_0_1.m4a"
+    ],
+    
+    [
+        "350",
+        "1",
+        "2",
+        "S",
+        "Neema was very happy. It was the last day of school.",
+        "book_en_350_page_1.png",
+        "L",
+        "book_en_350_page_1_1.m4a,book_en_350_page_1_2.m4a"
+    ],
+    
+    [
+        "350",
+        "1",
+        "3",
+        "S",
+        "The teacher told the students to clean.",
+        "book_en_350_page_2.png",
+        "L",
+        "book_en_350_page_2_1.m4a"
+    ],
+    
+    [
+        "350",
+        "1",
+        "4",
+        "S",
+        "Neema cleaned very fast so she could go play with her friends.",
+        "book_en_350_page_3.png",
+        "L",
+        "book_en_350_page_3_1.m4a"
+    ],
+    
+    [
+        "350",
+        "1",
+        "5",
+        "S",
+        "She saw Salma was still cleaning. She asked \"Salma,\" “Do you want help?”",
+        "book_en_350_page_4.png",
+        "L",
+        "book_en_350_page_4_1.m4a,book_en_350_page_4_2.m4a,book_en_350_page_4_3.m4a"
+    ],
+    
+    [
+        "350",
+        "1",
+        "6",
+        "S",
+        "Salma said “yes.” When they were done \"cleaning,\" Salma \"said,\" “Thank \"you,\" Neema.”",
+        "book_en_350_page_5.png",
+        "L",
+        "book_en_350_page_5_1.m4a,book_en_350_page_5_2.m4a,book_en_350_page_5_3.m4a"
+    ],
+    
+    [
+        "350",
+        "1",
+        "7",
+        "S",
+        "Neema \"said,\" “I think it will be good to help Flora too.” They went to help Flora.",
+        "book_en_350_page_6.png",
+        "L",
+        "book_en_350_page_6_1.m4a,book_en_350_page_6_2.m4a,book_en_350_page_6_3.m4a"
+    ],
+    
+    [
+        "350",
+        "1",
+        "8",
+        "S",
+        "After they were done \"cleaning,\" they all went to the field to play.",
+        "book_en_350_page_7.png",
+        "L",
+        "book_en_350_page_7_1.m4a"
+    ]]

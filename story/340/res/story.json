@@ -1,0 +1,78 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "340",
+        "1",
+        "1",
+        "S",
+        "Cooking Beans with Neema",
+        "book_en_340_page_0.png",
+        "P",
+        "book_en_340_page_0_1.m4a"
+    ],
+    
+    [
+        "340",
+        "1",
+        "2",
+        "S",
+        "Neema can cook beans.",
+        "book_en_340_page_1.png",
+        "L",
+        "book_en_340_page_1_1.m4a"
+    ],
+    
+    [
+        "340",
+        "1",
+        "3",
+        "S",
+        "Neema cleans dirt from the beans.",
+        "book_en_340_page_2.png",
+        "L",
+        "book_en_340_page_2_1.m4a"
+    ],
+    
+    [
+        "340",
+        "1",
+        "4",
+        "S",
+        "Neema washes the beans.",
+        "book_en_340_page_3.png",
+        "L",
+        "book_en_340_page_3_1.m4a"
+    ],
+    
+    [
+        "340",
+        "1",
+        "5",
+        "S",
+        "Neema boils the beans.",
+        "book_en_340_page_4.png",
+        "L",
+        "book_en_340_page_4_1.m4a"
+    ],
+    
+    [
+        "340",
+        "1",
+        "6",
+        "S",
+        "Neema fries onions. She adds the beans and salt.",
+        "book_en_340_page_5.png",
+        "L",
+        "book_en_340_page_5_1.m4a,book_en_340_page_5_2.m4a"
+    ]]

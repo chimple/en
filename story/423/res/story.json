@@ -1,0 +1,89 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "423",
+        "1",
+        "1",
+        "S",
+        "Be the Beat",
+        "book_en_423_page_0.png",
+        "P",
+        "book_en_423_page_0_1.m4a"
+    ],
+    
+    [
+        "423",
+        "1",
+        "2",
+        "S",
+        "Can you make music? I can play the drums.",
+        "book_en_423_page_1.png",
+        "L",
+        "book_en_423_page_1_1.m4a,book_en_423_page_1_2.m4a"
+    ],
+    
+    [
+        "423",
+        "1",
+        "3",
+        "S",
+        "I play the drums everywhere I go.",
+        "book_en_423_page_2.png",
+        "L",
+        "book_en_423_page_2_1.m4a"
+    ],
+    
+    [
+        "423",
+        "1",
+        "4",
+        "S",
+        "I drum out a beat on my desk. I use my pencil to drum.",
+        "book_en_423_page_3.png",
+        "L",
+        "book_en_423_page_3_1.m4a,book_en_423_page_3_2.m4a"
+    ],
+    
+    [
+        "423",
+        "1",
+        "5",
+        "S",
+        "I drum out a beat on the road. I stamp out a beat with my feet.",
+        "book_en_423_page_4.png",
+        "L",
+        "book_en_423_page_4_1.m4a,book_en_423_page_4_2.m4a"
+    ],
+    
+    [
+        "423",
+        "1",
+        "6",
+        "S",
+        "I drum out a beat at dinner. I use my fork and my plate.",
+        "book_en_423_page_5.png",
+        "L",
+        "book_en_423_page_5_1.m4a,book_en_423_page_5_2.m4a"
+    ],
+    
+    [
+        "423",
+        "1",
+        "7",
+        "S",
+        "I drum out a beat in my heart. I hear it beat in my chest.",
+        "book_en_423_page_6.png",
+        "L",
+        "book_en_423_page_6_1.m4a,book_en_423_page_6_2.m4a"
+    ]]

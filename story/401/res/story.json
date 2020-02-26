@@ -1,0 +1,111 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "401",
+        "1",
+        "1",
+        "S",
+        "The Mouse and the Lion",
+        "book_en_401_page_0.png",
+        "P",
+        "book_en_401_page_0_1.m4a"
+    ],
+    
+    [
+        "401",
+        "1",
+        "2",
+        "S",
+        "Mouse was hungry. He looked for food among the grass.",
+        "book_en_401_page_1.png",
+        "L",
+        "book_en_401_page_1_1.m4a,book_en_401_page_1_2.m4a"
+    ],
+    
+    [
+        "401",
+        "1",
+        "3",
+        "S",
+        "He found Lion instead! Lion was \"hungry,\" too.",
+        "book_en_401_page_2.png",
+        "L",
+        "book_en_401_page_2_1.m4a,book_en_401_page_2_2.m4a"
+    ],
+    
+    [
+        "401",
+        "1",
+        "4",
+        "S",
+        "Lion roared. Mouse \"said,\" \"“Please,\" Lion. Do not eat me.”",
+        "book_en_401_page_3.png",
+        "L",
+        "book_en_401_page_3_1.m4a,book_en_401_page_3_2.m4a,book_en_401_page_3_3.m4a,book_en_401_page_3_4.m4a"
+    ],
+    
+    [
+        "401",
+        "1",
+        "5",
+        "S",
+        "Mouse \"said,\" “Let me go. \"Someday,\" I will help you.”",
+        "book_en_401_page_4.png",
+        "L",
+        "book_en_401_page_4_1.m4a,book_en_401_page_4_2.m4a"
+    ],
+    
+    [
+        "401",
+        "1",
+        "6",
+        "S",
+        "Lion \"said,\" “That is silly. How can a little mouse help me? But you may go.”",
+        "book_en_401_page_5.png",
+        "L",
+        "book_en_401_page_5_1.m4a,book_en_401_page_5_2.m4a,book_en_401_page_5_3.m4a,book_en_401_page_5_4.m4a"
+    ],
+    
+    [
+        "401",
+        "1",
+        "7",
+        "S",
+        "A few days \"later,\" Lion got stuck. Wire was twisted around his legs.",
+        "book_en_401_page_6.png",
+        "L",
+        "book_en_401_page_6_1.m4a,book_en_401_page_6_2.m4a"
+    ],
+    
+    [
+        "401",
+        "1",
+        "8",
+        "S",
+        "\"“Help,”\" Lion cried. “I am trapped!”",
+        "book_en_401_page_7.png",
+        "L",
+        "book_en_401_page_7_1.m4a,book_en_401_page_7_2.m4a,book_en_401_page_7_3.m4a"
+    ],
+    
+    [
+        "401",
+        "1",
+        "9",
+        "S",
+        "Mouse rushed back. He \"said,\" “I can use my teeth. You will be free.”",
+        "book_en_401_page_8.png",
+        "L",
+        "book_en_401_page_8_1.m4a,book_en_401_page_8_2.m4a,book_en_401_page_8_3.m4a,book_en_401_page_8_4.m4a"
+    ]]

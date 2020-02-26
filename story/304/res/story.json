@@ -1,0 +1,199 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "304",
+        "1",
+        "1",
+        "S",
+        "Rainbow",
+        "book_en_304_page_0.png",
+        "P",
+        "book_en_304_page_0_1.m4a"
+    ],
+    
+    [
+        "304",
+        "1",
+        "2",
+        "S",
+        "The rainbow has seven colors. Can you count them?",
+        "book_en_304_page_1.png",
+        "P",
+        "book_en_304_page_1_1.m4a,book_en_304_page_1_2.m4a"
+    ],
+    
+    [
+        "304",
+        "1",
+        "3",
+        "S",
+        "One! The first color is red.",
+        "book_en_304_page_2.png",
+        "P",
+        "book_en_304_page_2_1.m4a,book_en_304_page_2_2.m4a"
+    ],
+    
+    [
+        "304",
+        "1",
+        "4",
+        "S",
+        "Kweyu is wearing a red shirt.",
+        "book_en_304_page_3.png",
+        "P",
+        "book_en_304_page_3_1.m4a"
+    ],
+    
+    [
+        "304",
+        "1",
+        "5",
+        "S",
+        "Two! The second color is orange.",
+        "book_en_304_page_4.png",
+        "P",
+        "book_en_304_page_4_1.m4a,book_en_304_page_4_2.m4a"
+    ],
+    
+    [
+        "304",
+        "1",
+        "6",
+        "S",
+        "This is an orange orange.",
+        "book_en_304_page_5.png",
+        "P",
+        "book_en_304_page_5_1.m4a"
+    ],
+    
+    [
+        "304",
+        "1",
+        "7",
+        "S",
+        "Three! The third color is yellow.",
+        "book_en_304_page_6.png",
+        "P",
+        "book_en_304_page_6_1.m4a,book_en_304_page_6_2.m4a"
+    ],
+    
+    [
+        "304",
+        "1",
+        "8",
+        "S",
+        "The egg’s yolk is yellow.",
+        "book_en_304_page_7.png",
+        "P",
+        "book_en_304_page_7_1.m4a"
+    ],
+    
+    [
+        "304",
+        "1",
+        "9",
+        "S",
+        "Four! The fourth color is green.",
+        "book_en_304_page_8.png",
+        "P",
+        "book_en_304_page_8_1.m4a,book_en_304_page_8_2.m4a"
+    ],
+    
+    [
+        "304",
+        "1",
+        "10",
+        "S",
+        "The plants are green.",
+        "book_en_304_page_9.png",
+        "P",
+        "book_en_304_page_9_1.m4a"
+    ],
+    
+    [
+        "304",
+        "1",
+        "11",
+        "S",
+        "Five! The fifth color is blue.",
+        "book_en_304_page_10.png",
+        "P",
+        "book_en_304_page_10_1.m4a,book_en_304_page_10_2.m4a"
+    ],
+    
+    [
+        "304",
+        "1",
+        "12",
+        "S",
+        "The beautiful sky is blue.",
+        "book_en_304_page_11.png",
+        "P",
+        "book_en_304_page_11_1.m4a"
+    ],
+    
+    [
+        "304",
+        "1",
+        "13",
+        "S",
+        "Six! The sixth color is indigo.",
+        "book_en_304_page_12.png",
+        "P",
+        "book_en_304_page_12_1.m4a,book_en_304_page_12_2.m4a"
+    ],
+    
+    [
+        "304",
+        "1",
+        "14",
+        "S",
+        "These plums are indigo.",
+        "book_en_304_page_13.png",
+        "P",
+        "book_en_304_page_13_1.m4a"
+    ],
+    
+    [
+        "304",
+        "1",
+        "15",
+        "S",
+        "Seven! The seventh color is purple.",
+        "book_en_304_page_14.png",
+        "P",
+        "book_en_304_page_14_1.m4a,book_en_304_page_14_2.m4a"
+    ],
+    
+    [
+        "304",
+        "1",
+        "16",
+        "S",
+        "The color of my pretty dress is purple.",
+        "book_en_304_page_15.png",
+        "P",
+        "book_en_304_page_15_1.m4a"
+    ],
+    
+    [
+        "304",
+        "1",
+        "17",
+        "S",
+        "I like this color very much.",
+        "book_en_304_page_16.png",
+        "P",
+        "book_en_304_page_16_1.m4a"
+    ]]

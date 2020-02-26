@@ -1,0 +1,122 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "418",
+        "1",
+        "1",
+        "S",
+        "In the Coconut Tree",
+        "book_en_418_page_0.png",
+        "P",
+        "book_en_418_page_0_1.m4a"
+    ],
+    
+    [
+        "418",
+        "1",
+        "2",
+        "S",
+        "There is a coconut tree at my house. There are many coconuts in the tree.",
+        "book_en_418_page_1.png",
+        "L",
+        "book_en_418_page_1_1.m4a,book_en_418_page_1_2.m4a"
+    ],
+    
+    [
+        "418",
+        "1",
+        "3",
+        "S",
+        "Getting a coconut to eat is not easy.",
+        "book_en_418_page_2.png",
+        "L",
+        "book_en_418_page_2_1.m4a"
+    ],
+    
+    [
+        "418",
+        "1",
+        "4",
+        "S",
+        "Is there a coconut on the ground? I see no coconuts on the ground.",
+        "book_en_418_page_3.png",
+        "L",
+        "book_en_418_page_3_1.m4a,book_en_418_page_3_2.m4a"
+    ],
+    
+    [
+        "418",
+        "1",
+        "5",
+        "S",
+        "I need to climb up the coconut tree. Our tree has steps cut in it.",
+        "book_en_418_page_4.png",
+        "L",
+        "book_en_418_page_4_1.m4a,book_en_418_page_4_2.m4a"
+    ],
+    
+    [
+        "418",
+        "1",
+        "6",
+        "S",
+        "I pick a coconut. Now I need to open the coconut!",
+        "book_en_418_page_5.png",
+        "L",
+        "book_en_418_page_5_1.m4a,book_en_418_page_5_2.m4a"
+    ],
+    
+    [
+        "418",
+        "1",
+        "7",
+        "S",
+        "\"First,\" I pull off the tough husk. The hard shell is inside.",
+        "book_en_418_page_6.png",
+        "L",
+        "book_en_418_page_6_1.m4a,book_en_418_page_6_2.m4a"
+    ],
+    
+    [
+        "418",
+        "1",
+        "8",
+        "S",
+        "Mama helps to cut open the shell. She cuts the top off with a knife.",
+        "book_en_418_page_7.png",
+        "L",
+        "book_en_418_page_7_1.m4a,book_en_418_page_7_2.m4a"
+    ],
+    
+    [
+        "418",
+        "1",
+        "9",
+        "S",
+        "Inside the shell is the part I want. Thank \"you,\" mama!",
+        "book_en_418_page_8.png",
+        "L",
+        "book_en_418_page_8_1.m4a,book_en_418_page_8_2.m4a"
+    ],
+    
+    [
+        "418",
+        "1",
+        "10",
+        "S",
+        "I drink the sweet water. I eat the delicious fruit.",
+        "book_en_418_page_9.png",
+        "L",
+        "book_en_418_page_9_1.m4a,book_en_418_page_9_2.m4a"
+    ]]

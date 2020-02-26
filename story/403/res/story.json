@@ -1,0 +1,100 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "403",
+        "1",
+        "1",
+        "S",
+        "How Many Legs?",
+        "book_en_403_page_0.png",
+        "P",
+        "book_en_403_page_0_1.m4a"
+    ],
+    
+    [
+        "403",
+        "1",
+        "2",
+        "S",
+        "The boy has two arms. How many legs does he have?",
+        "book_en_403_page_1.png",
+        "P",
+        "book_en_403_page_1_1.m4a,book_en_403_page_1_2.m4a"
+    ],
+    
+    [
+        "403",
+        "1",
+        "3",
+        "S",
+        "This kitten has four legs. Who has more \"legs,\" the boy or the kitten?",
+        "book_en_403_page_2.png",
+        "P",
+        "book_en_403_page_2_1.m4a,book_en_403_page_2_2.m4a"
+    ],
+    
+    [
+        "403",
+        "1",
+        "4",
+        "S",
+        "These two fish do not have legs. Fish can swim without legs!",
+        "book_en_403_page_3.png",
+        "P",
+        "book_en_403_page_3_1.m4a,book_en_403_page_3_2.m4a"
+    ],
+    
+    [
+        "403",
+        "1",
+        "5",
+        "S",
+        "One lion has four legs. How many legs do two lions have?",
+        "book_en_403_page_4.png",
+        "P",
+        "book_en_403_page_4_1.m4a,book_en_403_page_4_2.m4a"
+    ],
+    
+    [
+        "403",
+        "1",
+        "6",
+        "S",
+        "These four birds have two legs each. How many legs do they have in all?",
+        "book_en_403_page_5.png",
+        "P",
+        "book_en_403_page_5_1.m4a,book_en_403_page_5_2.m4a"
+    ],
+    
+    [
+        "403",
+        "1",
+        "7",
+        "S",
+        "Snakes can move without any legs. How many snakes are there?",
+        "book_en_403_page_6.png",
+        "P",
+        "book_en_403_page_6_1.m4a,book_en_403_page_6_2.m4a"
+    ],
+    
+    [
+        "403",
+        "1",
+        "8",
+        "S",
+        "Three giraffes have lots of legs! Can you count them all?",
+        "book_en_403_page_7.png",
+        "P",
+        "book_en_403_page_7_1.m4a,book_en_403_page_7_2.m4a"
+    ]]

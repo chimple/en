@@ -1,0 +1,111 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "348",
+        "1",
+        "1",
+        "S",
+        "Neema’s Journey to the Market",
+        "book_en_348_page_0.png",
+        "P",
+        "book_en_348_page_0_1.m4a"
+    ],
+    
+    [
+        "348",
+        "1",
+        "2",
+        "S",
+        "Neema went to buy food at the market.",
+        "book_en_348_page_1.png",
+        "P",
+        "book_en_348_page_1_1.m4a"
+    ],
+    
+    [
+        "348",
+        "1",
+        "3",
+        "S",
+        "Her mother gave her two thousand shillings to buy vegetables.",
+        "book_en_348_page_2.png",
+        "P",
+        "book_en_348_page_2_1.m4a"
+    ],
+    
+    [
+        "348",
+        "1",
+        "4",
+        "S",
+        "Neema took a basket and went to the market.",
+        "book_en_348_page_3.png",
+        "P",
+        "book_en_348_page_3_1.m4a"
+    ],
+    
+    [
+        "348",
+        "1",
+        "5",
+        "S",
+        "Neema went to the vegetable sellers.",
+        "book_en_348_page_4.png",
+        "P",
+        "book_en_348_page_4_1.m4a"
+    ],
+    
+    [
+        "348",
+        "1",
+        "6",
+        "S",
+        "\"First,\" she bought three bunches of spinach and one big cabbage.",
+        "book_en_348_page_5.png",
+        "P",
+        "book_en_348_page_5_1.m4a"
+    ],
+    
+    [
+        "348",
+        "1",
+        "7",
+        "S",
+        "\"After,\" she went to find tomatoes and onions.",
+        "book_en_348_page_6.png",
+        "P",
+        "book_en_348_page_6_1.m4a"
+    ],
+    
+    [
+        "348",
+        "1",
+        "8",
+        "S",
+        "Neema bought two bags of tomatoes and one bag of onions.",
+        "book_en_348_page_7.png",
+        "P",
+        "book_en_348_page_7_1.m4a"
+    ],
+    
+    [
+        "348",
+        "1",
+        "9",
+        "S",
+        "She saw her friend. Neema wanted to \"play,\" but she remembered that her mother was waiting.",
+        "book_en_348_page_8.png",
+        "P",
+        "book_en_348_page_8_1.m4a,book_en_348_page_8_2.m4a"
+    ]]

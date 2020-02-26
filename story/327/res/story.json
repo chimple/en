@@ -1,0 +1,100 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "327",
+        "1",
+        "1",
+        "S",
+        "In The Forest",
+        "book_en_327_page_0.png",
+        "P",
+        "book_en_327_page_0_1.m4a"
+    ],
+    
+    [
+        "327",
+        "1",
+        "2",
+        "S",
+        "Halima used balloons to float up to the sky.",
+        "book_en_327_page_1.png",
+        "L",
+        "book_en_327_page_1_1.m4a"
+    ],
+    
+    [
+        "327",
+        "1",
+        "3",
+        "S",
+        "Halima and her balloons scared a squirrel. The squirrel lost its book.",
+        "book_en_327_page_2.png",
+        "L",
+        "book_en_327_page_2_1.m4a,book_en_327_page_2_2.m4a"
+    ],
+    
+    [
+        "327",
+        "1",
+        "4",
+        "S",
+        "Halima landed on the ground. She was sad to scare the squirrel.",
+        "book_en_327_page_3.png",
+        "L",
+        "book_en_327_page_3_1.m4a,book_en_327_page_3_2.m4a"
+    ],
+    
+    [
+        "327",
+        "1",
+        "5",
+        "S",
+        "She gave a hair tie to the squirrel. They became friends.",
+        "book_en_327_page_4.png",
+        "L",
+        "book_en_327_page_4_1.m4a,book_en_327_page_4_2.m4a"
+    ],
+    
+    [
+        "327",
+        "1",
+        "6",
+        "S",
+        "They played and climbed on the trees.",
+        "book_en_327_page_5.png",
+        "L",
+        "book_en_327_page_5_1.m4a"
+    ],
+    
+    [
+        "327",
+        "1",
+        "7",
+        "S",
+        "They surprised a frog resting on the tree.",
+        "book_en_327_page_6.png",
+        "L",
+        "book_en_327_page_6_1.m4a"
+    ],
+    
+    [
+        "327",
+        "1",
+        "8",
+        "S",
+        "\"Later,\" they sat on the branch to rest.",
+        "book_en_327_page_7.png",
+        "L",
+        "book_en_327_page_7_1.m4a"
+    ]]

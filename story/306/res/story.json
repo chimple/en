@@ -1,0 +1,89 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "306",
+        "1",
+        "1",
+        "S",
+        "I Can Do It",
+        "book_en_306_page_0.png",
+        "P",
+        "book_en_306_page_0_1.m4a"
+    ],
+    
+    [
+        "306",
+        "1",
+        "2",
+        "S",
+        "I can walk. I can walk all day.",
+        "book_en_306_page_1.png",
+        "P",
+        "book_en_306_page_1_1.m4a,book_en_306_page_1_2.m4a"
+    ],
+    
+    [
+        "306",
+        "1",
+        "3",
+        "S",
+        "I can jump. I can jump high.",
+        "book_en_306_page_2.png",
+        "P",
+        "book_en_306_page_2_1.m4a,book_en_306_page_2_2.m4a"
+    ],
+    
+    [
+        "306",
+        "1",
+        "4",
+        "S",
+        "I can run. I can run fast.",
+        "book_en_306_page_3.png",
+        "P",
+        "book_en_306_page_3_1.m4a,book_en_306_page_3_2.m4a"
+    ],
+    
+    [
+        "306",
+        "1",
+        "5",
+        "S",
+        "I can kick this ball. I can kick it far.",
+        "book_en_306_page_4.png",
+        "P",
+        "book_en_306_page_4_1.m4a,book_en_306_page_4_2.m4a"
+    ],
+    
+    [
+        "306",
+        "1",
+        "6",
+        "S",
+        "I can dance. I love to dance.",
+        "book_en_306_page_5.png",
+        "P",
+        "book_en_306_page_5_1.m4a,book_en_306_page_5_2.m4a"
+    ],
+    
+    [
+        "306",
+        "1",
+        "7",
+        "S",
+        "I can swim. I can swim across the lake.",
+        "book_en_306_page_6.png",
+        "P",
+        "book_en_306_page_6_1.m4a,book_en_306_page_6_2.m4a"
+    ]]

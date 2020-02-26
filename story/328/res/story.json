@@ -1,0 +1,111 @@
+ 
+[
+    [
+        "#level",
+        "Worksheet",
+        "ProblemNo",
+        "type",
+        "storyText",
+        "storyImage",
+        "storyLayout",
+        "soundFiles"
+    ],
+
+    [
+        "328",
+        "1",
+        "1",
+        "S",
+        "Colors on the Street",
+        "book_en_328_page_0.png",
+        "P",
+        "book_en_328_page_0_1.m4a"
+    ],
+    
+    [
+        "328",
+        "1",
+        "2",
+        "S",
+        "What can we eat today?",
+        "book_en_328_page_1.png",
+        "L",
+        "book_en_328_page_1_1.m4a"
+    ],
+    
+    [
+        "328",
+        "1",
+        "3",
+        "S",
+        "This red food can be hot.",
+        "book_en_328_page_2.png",
+        "L",
+        "book_en_328_page_2_1.m4a"
+    ],
+    
+    [
+        "328",
+        "1",
+        "4",
+        "S",
+        "This purple food is not hot.",
+        "book_en_328_page_3.png",
+        "L",
+        "book_en_328_page_3_1.m4a"
+    ],
+    
+    [
+        "328",
+        "1",
+        "5",
+        "S",
+        "Cool and \"sweet,\" this food is pink.",
+        "book_en_328_page_4.png",
+        "L",
+        "book_en_328_page_4_1.m4a"
+    ],
+    
+    [
+        "328",
+        "1",
+        "6",
+        "S",
+        "Yellow food can make a drink.",
+        "book_en_328_page_5.png",
+        "L",
+        "book_en_328_page_5_1.m4a"
+    ],
+    
+    [
+        "328",
+        "1",
+        "7",
+        "S",
+        "I can have a green \"drink,\" too.",
+        "book_en_328_page_6.png",
+        "L",
+        "book_en_328_page_6_1.m4a"
+    ],
+    
+    [
+        "328",
+        "1",
+        "8",
+        "S",
+        "Is this white food good for you?",
+        "book_en_328_page_7.png",
+        "L",
+        "book_en_328_page_7_1.m4a"
+    ],
+    
+    [
+        "328",
+        "1",
+        "9",
+        "S",
+        "This brown food is sweet.",
+        "book_en_328_page_8.png",
+        "L",
+        "book_en_328_page_8_1.m4a"
+    ]]
