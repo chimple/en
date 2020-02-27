@@ -184,7 +184,7 @@
     "eggquizliteracy": {
         "name": "eggquizliteracy",
         "scene": "games/eggquizliteracy/scenes/eggquizliteracy",
-        "levels": "2",
+        "levels": "82",
         "ground": "150",
         "color": "#7A4A8D",
         "type": "literacy"
