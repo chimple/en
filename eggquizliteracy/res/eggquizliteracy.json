@@ -11,7 +11,7 @@
     ["1", "1", "9", "soundonly_word", "q", "y","b","q", "", "", "eng_q.m4a", ""],
     ["1", "1", "10", "soundonly_word", "t", "t","s","z", "", "", "eng_t.m4a", ""],
     ["1", "1", "11", "word_image", "water.png", "water.png","egg.png","hat.png", "", "water", "water.m4a", ""],
-    ["1", "1", "12", "image_sentence", "water.png", "water.png","egg.png","hat.png", "water.png", "", "", ""],
+    ["1", "1", "12", "image_image", "water.png", "water.png","egg.png","hat.png", "water.png", "", "", ""],
     ["1", "2", "1", "soundonly_word", "E", "E","I","B", "", "", "eng_e.m4a", ""],
     ["1", "2", "2", "soundonly_word", "S", "G","Ch","S", "", "", "eng_s.m4a", ""],
     ["1", "2", "3", "soundonly_word", "D", "D","B","P", "", "", "eng_d.m4a", ""],
